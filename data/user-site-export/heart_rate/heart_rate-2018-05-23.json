@@ -1,0 +1,133 @@
+[{
+  "dateTime" : "05/23/18 00:44:37",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 02:00:00",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 02:00:15",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 02:09:19",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 02:09:29",
+  "value" : {
+    "bpm" : 92,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 02:09:34",
+  "value" : {
+    "bpm" : 106,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 03:40:38",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 06:00:00",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 06:00:10",
+  "value" : {
+    "bpm" : 102,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 06:00:15",
+  "value" : {
+    "bpm" : 106,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 06:09:18",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 06:09:28",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 06:09:33",
+  "value" : {
+    "bpm" : 120,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "05/23/18 06:42:02",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 10:00:00",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 10:00:15",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 10:09:18",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 10:09:28",
+  "value" : {
+    "bpm" : 115,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 10:09:33",
+  "value" : {
+    "bpm" : 121,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "05/23/18 10:09:38",
+  "value" : {
+    "bpm" : 122,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "05/23/18 11:24:31",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "05/23/18 13:51:26",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+}]

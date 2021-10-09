@@ -1,0 +1,701 @@
+[{
+  "logId" : 2579456580,
+  "loggedFood" : {
+    "foodId" : 536501555,
+    "locale" : "en_AU",
+    "name" : "Whole Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6837,12982,7156,7157,7920,7921,7922,7923,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 143,
+    "amount" : 231.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-22",
+  "favorite" : false
+},{
+  "logId" : 2579487154,
+  "loggedFood" : {
+    "foodId" : 536481557,
+    "locale" : "en_AU",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [11444,11445,11446,6615,6624,6579,6844,6660,6616,6644,11447,11448,226,180,147,389],
+    "calories" : 89,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-22",
+  "favorite" : false
+},{
+  "logId" : 2579423668,
+  "loggedFood" : {
+    "foodId" : 535241197,
+    "locale" : "en_AU",
+    "name" : "Just Right",
+    "brand" : "Kellogg's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 160,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-22",
+  "favorite" : false
+},{
+  "logId" : 2575473956,
+  "loggedFood" : {
+    "foodId" : 535237151,
+    "locale" : "en_AU",
+    "name" : "Snakes Alive",
+    "brand" : "Allens",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,7587,226,180,147,389],
+    "calories" : 87,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 7587,
+      "name" : "snakes",
+      "plural" : "snakes"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2574716738,
+  "loggedFood" : {
+    "foodId" : 537240885,
+    "locale" : "en_AU",
+    "name" : "White Rice (Short-Grain, Cooked)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 242,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2575470679,
+  "loggedFood" : {
+    "foodId" : 535240446,
+    "locale" : "en_AU",
+    "name" : "Chicken Curry",
+    "brand" : "Coles",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 83,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2574731299,
+  "loggedFood" : {
+    "foodId" : 535237139,
+    "locale" : "en_AU",
+    "name" : "Fruit & Nut",
+    "brand" : "Cadbury",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6578,226,180,147,389],
+    "calories" : 100,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 6578,
+      "name" : "squares",
+      "plural" : "squares"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2573518099,
+  "loggedFood" : {
+    "foodId" : 535250972,
+    "locale" : "en_AU",
+    "name" : "Chips (Small)",
+    "brand" : "Chicken Treat",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 244,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2572751472,
+  "loggedFood" : {
+    "foodId" : 536486304,
+    "locale" : "en_AU",
+    "name" : "Double Cheeseburger on Bun",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [8310,12379,226,180,147,389],
+    "calories" : 472,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 8310,
+      "name" : "double cheeseburger",
+      "plural" : "double cheeseburger"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2573435841,
+  "loggedFood" : {
+    "foodId" : 535238556,
+    "locale" : "en_AU",
+    "name" : "Dim Sims",
+    "brand" : "International Cuisine",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6882,226,180,147,389],
+    "calories" : 111,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2571249090,
+  "loggedFood" : {
+    "foodId" : 537854920,
+    "locale" : "en_AU",
+    "name" : "Pink Lady Apples",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [11286,11287,11288,6624,11290,6814,226,180,147,389],
+    "calories" : 86,
+    "amount" : 165.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2573403717,
+  "loggedFood" : {
+    "foodId" : 535238418,
+    "locale" : "en_AU",
+    "name" : "Physical Low Fat",
+    "brand" : "Pauls",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 126,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2572732310,
+  "loggedFood" : {
+    "foodId" : 535248209,
+    "locale" : "en_AU",
+    "name" : "Sultana Bran",
+    "brand" : "Kellogg's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 153,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-21",
+  "favorite" : false
+},{
+  "logId" : 2566484065,
+  "loggedFood" : {
+    "foodId" : 535235356,
+    "locale" : "en_AU",
+    "name" : "Ego",
+    "brand" : "Magnum",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6572,226,180,147,389],
+    "calories" : 349,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2567750030,
+  "loggedFood" : {
+    "foodId" : 535249927,
+    "locale" : "en_AU",
+    "name" : "Chicken & Mushroom Risotto",
+    "brand" : "Wattie's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6602,226,180,147,389],
+    "calories" : 237,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2565643541,
+  "loggedFood" : {
+    "foodId" : 535231894,
+    "locale" : "en_AU",
+    "name" : "Marvelous Creations Clinkers Raspberry Chips Marshmallows",
+    "brand" : "Cadbury",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6572,226,180,147,389],
+    "calories" : 392,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2566374217,
+  "loggedFood" : {
+    "foodId" : 536483173,
+    "locale" : "en_AU",
+    "name" : "French or Vienna Bread (Includes Sourdough)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [11818,11819,11820,226,180,147,389],
+    "calories" : 175,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 11818,
+      "name" : "slice, medium (4\" x 2-1/2\" x 1-3/4\")",
+      "plural" : "slice, medium (4\" x 2-1/2\" x 1-3/4\")"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2567014533,
+  "loggedFood" : {
+    "foodId" : 536491167,
+    "locale" : "en_AU",
+    "name" : "Spaghetti with Tomato Sauce and Meatballs made with Spinach Noodles",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7038,91,256,279,226,180,147,389],
+    "calories" : 171,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2565433174,
+  "loggedFood" : {
+    "foodId" : 539975910,
+    "name" : "Garlic Chapati",
+    "brand" : "Silks",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 288,
+    "amount" : 94.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "3G5J52"
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2565695868,
+  "loggedFood" : {
+    "foodId" : 535240446,
+    "locale" : "en_AU",
+    "name" : "Chicken Curry",
+    "brand" : "Coles",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 164,
+    "amount" : 198.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2566037919,
+  "loggedFood" : {
+    "foodId" : 537240010,
+    "locale" : "en_AU",
+    "name" : "White Rice (Short-Grain)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 465,
+    "amount" : 130.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2563243625,
+  "loggedFood" : {
+    "foodId" : 536486988,
+    "locale" : "en_AU",
+    "name" : "Latte Coffee",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6760,11721,6586,6584,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 135,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6760,
+      "name" : "medium",
+      "plural" : "medium"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2563431282,
+  "loggedFood" : {
+    "foodId" : 535237151,
+    "locale" : "en_AU",
+    "name" : "Snakes Alive",
+    "brand" : "Allens",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,7587,226,180,147,389],
+    "calories" : 87,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 7587,
+      "name" : "snakes",
+      "plural" : "snakes"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2563465911,
+  "loggedFood" : {
+    "foodId" : 535248209,
+    "locale" : "en_AU",
+    "name" : "Sultana Bran",
+    "brand" : "Kellogg's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 153,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-20",
+  "favorite" : false
+},{
+  "logId" : 2558885762,
+  "loggedFood" : {
+    "foodId" : 535231894,
+    "locale" : "en_AU",
+    "name" : "Marvelous Creations Clinkers Raspberry Chips Marshmallows",
+    "brand" : "Cadbury",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6572,226,180,147,389],
+    "calories" : 198,
+    "amount" : 38.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2557399613,
+  "loggedFood" : {
+    "foodId" : 539975910,
+    "name" : "Garlic Chapati",
+    "brand" : "Silks",
+    "accessLevel" : "PRIVATE",
+    "units" : [226,180,147,389],
+    "calories" : 288,
+    "amount" : 94.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "3G5J52"
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2559172569,
+  "loggedFood" : {
+    "foodId" : 535240446,
+    "locale" : "en_AU",
+    "name" : "Chicken Curry",
+    "brand" : "Coles",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 164,
+    "amount" : 198.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2557836509,
+  "loggedFood" : {
+    "foodId" : 537240010,
+    "locale" : "en_AU",
+    "name" : "White Rice (Short-Grain)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 612,
+    "amount" : 171.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2558525274,
+  "loggedFood" : {
+    "foodId" : 536480836,
+    "locale" : "en_AU",
+    "name" : "Cheeseburger",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6642,226,180,147,389],
+    "calories" : 319,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6642,
+      "name" : "sandwich",
+      "plural" : "sandwich"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2558364543,
+  "loggedFood" : {
+    "foodId" : 536491416,
+    "locale" : "en_AU",
+    "name" : "Soft Drink",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7122,7081,7438,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 280,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 7438,
+      "name" : "serving (369g)",
+      "plural" : "serving (369g)"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2557335018,
+  "loggedFood" : {
+    "foodId" : 536495613,
+    "locale" : "en_AU",
+    "name" : "Thick Chocolate Milk Shake",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [13358,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 285,
+    "amount" : 250.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2557155827,
+  "loggedFood" : {
+    "foodId" : 535250972,
+    "locale" : "en_AU",
+    "name" : "Chips (Small)",
+    "brand" : "Chicken Treat",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 244,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2556025911,
+  "loggedFood" : {
+    "foodId" : 536500217,
+    "locale" : "en_AU",
+    "name" : "Orange Juice",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [13406,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 112,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2555227308,
+  "loggedFood" : {
+    "foodId" : 536485026,
+    "locale" : "en_AU",
+    "name" : "English Muffin with Butter",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6790,226,180,147,389],
+    "calories" : 378,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 6790,
+      "name" : "muffin",
+      "plural" : "muffin"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+},{
+  "logId" : 2556305145,
+  "loggedFood" : {
+    "foodId" : 536486988,
+    "locale" : "en_AU",
+    "name" : "Latte Coffee",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6760,11721,6586,6584,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 135,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6760,
+      "name" : "medium",
+      "plural" : "medium"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2015-05-19",
+  "favorite" : false
+}]
