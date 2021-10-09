@@ -285,3 +285,11 @@ cython_debug/
 .dropbox.attr
 .dropbox.cache
 
+!/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/.gitignore
+/.idea/fitport.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
