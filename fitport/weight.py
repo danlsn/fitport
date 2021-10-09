@@ -20,6 +20,7 @@ def main():
 
     df = pd.concat(dfs, ignore_index=True)
     df['datetime'] = df['date'].astype(str) + ' ' + df['time']
+    df['datetime'] = pd.to_datetime(df['datetime'])
     print(df[['datetime', 'weight', 'bmi', 'fat']])
 
 
