@@ -38,21 +38,36 @@ data/user-site-export
 ___
 ## Step 1: Weight & BMI
 ```json5
-{
+[{
   // Example Weight Record
   "logId" : 1431993599000,
   "weight" : 191.8, // weight in pounds
   "bmi" : 27.77,
   "date" : "05/18/15", // MM/DD/YY
   "time" : "23:59:59"
-}
+},{
+  "logId" : 1499258640000,
+  "weight" : 193.9,
+  "bmi" : 28.08,
+  "fat" : 24.00200080871582,
+  "date" : "07/05/17",
+  "time" : "12:44:00",
+  "source" : "Aria"
+},{
+  "logId" : 1499299199000,
+  "weight" : 189.1,
+  "bmi" : 27.39,
+  "fat" : 25.299999237060547,
+  "date" : "07/05/17",
+  "time" : "23:59:59",
+  "source" : "API"
+}]
 ```
-**Shortcuts Weight Health Sample**
+**Shortcuts Weight, BMI, Lean Mass, Fat Percentage Health Sample**
 ![Shortcuts Weight Entry](media/shortcuts-weight-entry.png)
-
-**Shortcuts Weight Health Sample**
 ![Shortcuts Body Mass Index](media/shortcuts-bmi-entry.png)
-
+![Shortcuts Body Fat Percentage Entry](media/shortcuts-body-fat-percentage-entry.png)
+![Shortcuts Lean Body Mass Entry](media/shortcuts-lean-body-mass-entry.png)
 ___
 ## Step 2: Sleep
 ```json5
