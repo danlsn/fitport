@@ -16,7 +16,7 @@ ___
 ## Data Structure
 _Fitbit's Data Export Tool gives the following_
 ```text
-user-site-export
+data/user-site-export
 ├── altitude
 ├── calories
 ├── demographic_vo2_max
