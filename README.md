@@ -14,7 +14,7 @@ ___
 3. Make Pretty Graphs
 ___
 ## Data Structure
-_Fitbit's Data Export Tool gives the following_
+_Fitbit Data Export Tool gives the following_
 ```text
 data/user-site-export
 ├── altitude
@@ -51,3 +51,58 @@ ___
 
 **Shortcuts Weight Health Sample**
 ![Shortcuts Body Mass Index](media/shortcuts-bmi-entry.png)
+
+___
+## Step 2: Sleep
+```json5
+// Example Sleep Record
+{
+  "logId" : 1028309330,
+  "dateOfSleep" : "2015-06-16",
+  "startTime" : "2015-06-15T23:46:00.000",
+  "endTime" : "2015-06-16T10:19:10.000",
+  "duration" : 37980000,
+  "minutesToFallAsleep" : 7,
+  "minutesAsleep" : 608,
+  "minutesAwake" : 18,
+  "minutesAfterWakeup" : 0,
+  "timeInBed" : 633,
+  "efficiency" : 97,
+  "type" : "classic",
+  "infoCode" : 0,
+  "levels" : {
+    "summary" : {
+      "restless" : {
+        "count" : 14,
+        "minutes" : 24
+      },
+      "awake" : {
+        "count" : 1,
+        "minutes" : 1
+      },
+      "asleep" : {
+        "count" : 0,
+        "minutes" : 608
+      }
+    },
+    "data" : [{
+      "dateTime" : "2015-06-15T23:46:00.000",
+      "level" : "restless", // restless, asleep, awake
+      "seconds" : 360
+    }, {
+      "dateTime" : "2015-06-15T23:52:00.000",
+      "level" : "awake", // restless, asleep, awake
+      "seconds" : 60
+    }]
+  },
+  "mainSleep" : true
+}
+```
+**Shortcuts Sleep Entry**
+![Shortcuts Sleep Entry](media/shortcuts-sleep-entry.png)
+```
+Type: Sleep
+Value: [ Awake, In Bed, Asleep ]
+Start Date: ...
+End Date: ...
+```
