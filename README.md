@@ -68,6 +68,14 @@ ___
 ![Shortcuts Body Mass Index](media/shortcuts-bmi-entry.png)
 ![Shortcuts Body Fat Percentage Entry](media/shortcuts-body-fat-percentage-entry.png)
 ![Shortcuts Lean Body Mass Entry](media/shortcuts-lean-body-mass-entry.png)
+
+```text
+Date: .date + .time
+Weight: .weight in pounds
+BMI: .bmi
+Body Fat %: .fat in %
+Lean Body Mass: .weight * ( 1 - .fat )
+```
 ___
 ## Step 2: Sleep
 ```json5
@@ -373,7 +381,7 @@ ___
 Step 7: Running + Walking Distance
 ```json5
 // Example Distance Record
-{
+[{
   "dateTime" : "12/13/15 01:20:00", // MM/DD/YY HH:MM:SS
   "value" : "0" // centimetres
 },{
@@ -382,7 +390,7 @@ Step 7: Running + Walking Distance
 },{
   "dateTime" : "12/13/15 01:22:00", // MM/DD/YY HH:MM:SS
   "value" : "1544" // centimetres
-}
+}]
 ```
 **Shortcuts Walking + Running Distance Entry**
 ![Shortcuts Walking + Running Distance Entry](media/shortcuts-walking-running-distance-entry.png)

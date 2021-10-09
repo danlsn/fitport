@@ -293,5 +293,5 @@ cython_debug/
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
-!/raw/
+!/data/raw/
 !/data/
