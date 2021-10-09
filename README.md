@@ -4,6 +4,11 @@ ___
 
 ## Goals
 1. Port Fitbit Data to Apple Health
-   1. 
-2. Create Unified Database of all Health Data
-3. Make Pretty Graphs
+   - [ ] Weight
+   - [ ] Sleep
+   - [ ] Resting HR
+   - [ ] Demographic VO2 Max
+   - [ ] Steps
+   - [ ] Workouts
+3. Create Unified Database of all Health Data
+4. Make Pretty Graphs
