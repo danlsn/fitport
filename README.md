@@ -106,3 +106,25 @@ Value: [ Awake, In Bed, Asleep ]
 Start Date: ...
 End Date: ...
 ```
+___
+## Step 3: Resting HR
+```json5
+// Example Resting HR Record
+[{
+  "dateTime" : "05/18/18 00:00:00",
+  "value" : {
+    "date" : "05/18/18",
+    "value" : 70.40722942352295,
+    "error" : 14.206387519836426
+  }
+},{
+  "dateTime" : "05/19/18 00:00:00",
+  "value" : {
+    "date" : null, // Some records include nulls, ignore these
+    "value" : 0.0,
+    "error" : 0.0
+  }
+}]
+```
+**Shortcuts Resting HR Entry**
+![Shortcuts Resting HR Entry](media/shortcuts-resting-hr-entry.png)
