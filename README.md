@@ -34,3 +34,20 @@ data/user-site-export
 ├── very_active_minutes
 └── weight
 ```
+___
+## Step 1: Weight & BMI
+```json5
+{
+  // Example Weight Record
+  "logId" : 1431993599000,
+  "weight" : 191.8, // weight in pounds
+  "bmi" : 27.77,
+  "date" : "05/18/15", // MM/DD/YY
+  "time" : "23:59:59"
+}
+```
+**Shortcuts Weight Health Sample**
+![Shortcuts Weight Entry](media/shortcuts-weight-entry.png)
+
+**Shortcuts Weight Health Sample**
+![Shortcuts Body Mass Index](media/shortcuts-bmi-entry.png)
