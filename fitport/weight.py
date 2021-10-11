@@ -1,4 +1,3 @@
-import json
 import os
 import pandas as pd
 
@@ -19,9 +18,18 @@ def main():
                 dfs.append(data)
 
     df = pd.concat(dfs, ignore_index=True)
-    df['datetime'] = df['date'].astype(str) + ' ' + df['time']
-    df['datetime'] = pd.to_datetime(df['datetime'])
-    print(df[['datetime', 'weight', 'bmi', 'fat']])
+    df['datetime'] = pd.to_datetime(df['logId'], unit='ms')
+    df['datetime'] = df['datetime'].astype(str)
+
+    # Calculate Lean Body Mass Percentage and Calculated Column
+    df['lean_pct'] = 100 - df.fat
+    df['lean_weight'] = df.weight * (df.lean_pct/100)
+
+    # Output DataFrame to CSV File
+    df_output = df[['datetime', 'weight', 'bmi', 'fat', 'lean_weight']]
+    output_file = '../data/output/weight.json'
+
+    df_output.to_json(output_file, orient='records')
 
 
 if __name__ == '__main__':
