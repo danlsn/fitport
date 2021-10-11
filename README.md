@@ -8,7 +8,7 @@ ___
    - [x] Sleep
    - [x] Resting HR
    - [x] Demographic VO2 Max
-   - [ ] Steps
+   - [x] Steps
    - [x] Workouts (Already mostly done using Strava)
    - [ ] Running + Walking Distance
 2. Create Unified Database of all Health Data
