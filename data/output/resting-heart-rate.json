@@ -1,0 +1,3930 @@
+[
+  {
+    "dateTime": "2017-05-16",
+    "value.value": 63.6535367966
+  },
+  {
+    "dateTime": "2017-05-17",
+    "value.value": 62.2059469223
+  },
+  {
+    "dateTime": "2017-05-18",
+    "value.value": 62.9056425095
+  },
+  {
+    "dateTime": "2017-05-19",
+    "value.value": 62.7974557877
+  },
+  {
+    "dateTime": "2017-05-20",
+    "value.value": 63.3587226868
+  },
+  {
+    "dateTime": "2017-05-21",
+    "value.value": 64.2019844055
+  },
+  {
+    "dateTime": "2017-05-22",
+    "value.value": 64.0174016953
+  },
+  {
+    "dateTime": "2017-05-23",
+    "value.value": 63.9278898239
+  },
+  {
+    "dateTime": "2017-05-24",
+    "value.value": 62.8688993454
+  },
+  {
+    "dateTime": "2017-05-25",
+    "value.value": 61.7475719452
+  },
+  {
+    "dateTime": "2017-05-26",
+    "value.value": 62.8737297058
+  },
+  {
+    "dateTime": "2017-05-27",
+    "value.value": 63.1295251846
+  },
+  {
+    "dateTime": "2017-05-28",
+    "value.value": 62.2139978409
+  },
+  {
+    "dateTime": "2017-05-29",
+    "value.value": 63.021074295
+  },
+  {
+    "dateTime": "2017-05-30",
+    "value.value": 63.347527504
+  },
+  {
+    "dateTime": "2017-05-31",
+    "value.value": 63.1324357986
+  },
+  {
+    "dateTime": "2017-06-01",
+    "value.value": 63.4673728943
+  },
+  {
+    "dateTime": "2017-06-02",
+    "value.value": 63.1264448166
+  },
+  {
+    "dateTime": "2017-06-03",
+    "value.value": 65.9131183624
+  },
+  {
+    "dateTime": "2017-06-04",
+    "value.value": 63.7707939148
+  },
+  {
+    "dateTime": "2017-06-05",
+    "value.value": 62.3233880997
+  },
+  {
+    "dateTime": "2017-06-06",
+    "value.value": 60.7502708435
+  },
+  {
+    "dateTime": "2017-06-07",
+    "value.value": 60.4978580475
+  },
+  {
+    "dateTime": "2017-06-08",
+    "value.value": 60.3491783142
+  },
+  {
+    "dateTime": "2017-06-09",
+    "value.value": 61.8372220993
+  },
+  {
+    "dateTime": "2017-06-10",
+    "value.value": 62.3711309433
+  },
+  {
+    "dateTime": "2017-06-11",
+    "value.value": 64.5815286636
+  },
+  {
+    "dateTime": "2017-06-12",
+    "value.value": 62.8884382248
+  },
+  {
+    "dateTime": "2017-06-13",
+    "value.value": 60.8551874161
+  },
+  {
+    "dateTime": "2017-06-14",
+    "value.value": 60.5465993881
+  },
+  {
+    "dateTime": "2017-06-15",
+    "value.value": 58.0196027756
+  },
+  {
+    "dateTime": "2017-06-16",
+    "value.value": 60.1879501343
+  },
+  {
+    "dateTime": "2017-06-17",
+    "value.value": 61.8647594452
+  },
+  {
+    "dateTime": "2017-06-18",
+    "value.value": 61.5342178345
+  },
+  {
+    "dateTime": "2017-06-19",
+    "value.value": 62.5812702179
+  },
+  {
+    "dateTime": "2017-06-20",
+    "value.value": 60.736284256
+  },
+  {
+    "dateTime": "2017-06-21",
+    "value.value": 60.3037052155
+  },
+  {
+    "dateTime": "2017-06-22",
+    "value.value": 61.6956739426
+  },
+  {
+    "dateTime": "2017-06-23",
+    "value.value": 62.9383506775
+  },
+  {
+    "dateTime": "2017-06-24",
+    "value.value": 63.6138601303
+  },
+  {
+    "dateTime": "2017-06-25",
+    "value.value": 63.6307296753
+  },
+  {
+    "dateTime": "2017-06-26",
+    "value.value": 63.7486782074
+  },
+  {
+    "dateTime": "2017-06-27",
+    "value.value": 63.8621559143
+  },
+  {
+    "dateTime": "2017-06-28",
+    "value.value": 63.5058870316
+  },
+  {
+    "dateTime": "2017-06-29",
+    "value.value": 60.8184995651
+  },
+  {
+    "dateTime": "2017-06-30",
+    "value.value": 60.8444395065
+  },
+  {
+    "dateTime": "2017-07-01",
+    "value.value": 60.0639734268
+  },
+  {
+    "dateTime": "2017-07-02",
+    "value.value": 61.6815538406
+  },
+  {
+    "dateTime": "2017-07-03",
+    "value.value": 64.1416091919
+  },
+  {
+    "dateTime": "2017-07-04",
+    "value.value": 65.0429315567
+  },
+  {
+    "dateTime": "2017-07-05",
+    "value.value": 65.0502748489
+  },
+  {
+    "dateTime": "2017-07-06",
+    "value.value": 66.5878362656
+  },
+  {
+    "dateTime": "2017-07-07",
+    "value.value": 67.9841766357
+  },
+  {
+    "dateTime": "2017-07-08",
+    "value.value": 68.7370653152
+  },
+  {
+    "dateTime": "2017-07-09",
+    "value.value": 66.6663007736
+  },
+  {
+    "dateTime": "2017-07-10",
+    "value.value": 66.496096611
+  },
+  {
+    "dateTime": "2017-07-11",
+    "value.value": 67.4202442169
+  },
+  {
+    "dateTime": "2017-07-12",
+    "value.value": 67.4412984848
+  },
+  {
+    "dateTime": "2017-07-13",
+    "value.value": 67.9644975662
+  },
+  {
+    "dateTime": "2017-07-14",
+    "value.value": 67.2436075211
+  },
+  {
+    "dateTime": "2017-07-15",
+    "value.value": 68.8728179932
+  },
+  {
+    "dateTime": "2017-07-16",
+    "value.value": 68.2777004242
+  },
+  {
+    "dateTime": "2017-07-17",
+    "value.value": 67.4239521027
+  },
+  {
+    "dateTime": "2017-07-18",
+    "value.value": 68.9766616821
+  },
+  {
+    "dateTime": "2017-07-19",
+    "value.value": 67.8264188766
+  },
+  {
+    "dateTime": "2017-07-20",
+    "value.value": 66.0137834549
+  },
+  {
+    "dateTime": "2017-07-21",
+    "value.value": 64.4460687637
+  },
+  {
+    "dateTime": "2017-07-22",
+    "value.value": 64.9847049713
+  },
+  {
+    "dateTime": "2017-07-23",
+    "value.value": 64.4156856537
+  },
+  {
+    "dateTime": "2017-07-24",
+    "value.value": 61.997833252
+  },
+  {
+    "dateTime": "2017-07-25",
+    "value.value": 62.2801218033
+  },
+  {
+    "dateTime": "2017-07-26",
+    "value.value": 62.4382858276
+  },
+  {
+    "dateTime": "2017-07-27",
+    "value.value": 63.5528650284
+  },
+  {
+    "dateTime": "2017-07-28",
+    "value.value": 64.7041692734
+  },
+  {
+    "dateTime": "2017-07-29",
+    "value.value": 66.388833046
+  },
+  {
+    "dateTime": "2017-07-30",
+    "value.value": 65.3140935898
+  },
+  {
+    "dateTime": "2017-07-31",
+    "value.value": 66.6740283966
+  },
+  {
+    "dateTime": "2017-08-01",
+    "value.value": 66.4742918015
+  },
+  {
+    "dateTime": "2017-08-02",
+    "value.value": 66.3812417984
+  },
+  {
+    "dateTime": "2017-08-03",
+    "value.value": 65.2928180695
+  },
+  {
+    "dateTime": "2017-08-04",
+    "value.value": 67.2486524582
+  },
+  {
+    "dateTime": "2017-08-05",
+    "value.value": 66.8306951523
+  },
+  {
+    "dateTime": "2017-08-06",
+    "value.value": 67.3079433441
+  },
+  {
+    "dateTime": "2017-08-07",
+    "value.value": 66.1943864822
+  },
+  {
+    "dateTime": "2017-08-08",
+    "value.value": 67.8411912918
+  },
+  {
+    "dateTime": "2017-08-09",
+    "value.value": 67.7614364624
+  },
+  {
+    "dateTime": "2017-08-10",
+    "value.value": 67.5479516983
+  },
+  {
+    "dateTime": "2017-08-11",
+    "value.value": 66.195561409
+  },
+  {
+    "dateTime": "2017-08-12",
+    "value.value": 64.0140590668
+  },
+  {
+    "dateTime": "2017-08-13",
+    "value.value": 66.2317113876
+  },
+  {
+    "dateTime": "2017-08-14",
+    "value.value": 66.405128479
+  },
+  {
+    "dateTime": "2017-08-15",
+    "value.value": 64.5060501099
+  },
+  {
+    "dateTime": "2017-08-16",
+    "value.value": 65.6772232056
+  },
+  {
+    "dateTime": "2017-08-17",
+    "value.value": 66.3124189377
+  },
+  {
+    "dateTime": "2017-08-18",
+    "value.value": 63.8506803513
+  },
+  {
+    "dateTime": "2017-08-19",
+    "value.value": 65.5459051132
+  },
+  {
+    "dateTime": "2017-08-20",
+    "value.value": 67.9050674438
+  },
+  {
+    "dateTime": "2017-08-21",
+    "value.value": 72.6901111603
+  },
+  {
+    "dateTime": "2017-08-22",
+    "value.value": 77.4349794388
+  },
+  {
+    "dateTime": "2017-08-23",
+    "value.value": 79.6659975052
+  },
+  {
+    "dateTime": "2017-08-24",
+    "value.value": 82.3164072037
+  },
+  {
+    "dateTime": "2017-08-25",
+    "value.value": 83.8262233734
+  },
+  {
+    "dateTime": "2017-08-26",
+    "value.value": 82.268368721
+  },
+  {
+    "dateTime": "2017-08-27",
+    "value.value": 82.0990972519
+  },
+  {
+    "dateTime": "2017-08-28",
+    "value.value": 79.3894357681
+  },
+  {
+    "dateTime": "2017-08-29",
+    "value.value": 77.9909286499
+  },
+  {
+    "dateTime": "2017-09-02",
+    "value.value": 78.9778470993
+  },
+  {
+    "dateTime": "2017-09-03",
+    "value.value": 76.1155166626
+  },
+  {
+    "dateTime": "2017-09-04",
+    "value.value": 73.7734146118
+  },
+  {
+    "dateTime": "2017-09-05",
+    "value.value": 71.1242847443
+  },
+  {
+    "dateTime": "2017-09-06",
+    "value.value": 72.284989357
+  },
+  {
+    "dateTime": "2017-09-08",
+    "value.value": 70.8248538971
+  },
+  {
+    "dateTime": "2017-09-09",
+    "value.value": 69.6153106689
+  },
+  {
+    "dateTime": "2017-09-10",
+    "value.value": 69.5000686646
+  },
+  {
+    "dateTime": "2017-09-11",
+    "value.value": 70.7299585342
+  },
+  {
+    "dateTime": "2017-09-12",
+    "value.value": 70.3999643326
+  },
+  {
+    "dateTime": "2017-09-13",
+    "value.value": 70.8927564621
+  },
+  {
+    "dateTime": "2017-09-14",
+    "value.value": 71.101726532
+  },
+  {
+    "dateTime": "2017-09-15",
+    "value.value": 70.2356710434
+  },
+  {
+    "dateTime": "2017-09-16",
+    "value.value": 67.7483100891
+  },
+  {
+    "dateTime": "2017-09-17",
+    "value.value": 69.3637971878
+  },
+  {
+    "dateTime": "2017-09-18",
+    "value.value": 71.7295541763
+  },
+  {
+    "dateTime": "2017-09-19",
+    "value.value": 73.1638402939
+  },
+  {
+    "dateTime": "2017-09-20",
+    "value.value": 72.7333469391
+  },
+  {
+    "dateTime": "2017-09-21",
+    "value.value": 74.3419456482
+  },
+  {
+    "dateTime": "2017-09-22",
+    "value.value": 75.4872598648
+  },
+  {
+    "dateTime": "2017-09-23",
+    "value.value": 75.5619211197
+  },
+  {
+    "dateTime": "2017-09-24",
+    "value.value": 75.4727125168
+  },
+  {
+    "dateTime": "2017-09-25",
+    "value.value": 75.225361824
+  },
+  {
+    "dateTime": "2017-09-26",
+    "value.value": 73.44962883
+  },
+  {
+    "dateTime": "2017-09-27",
+    "value.value": 73.0621986389
+  },
+  {
+    "dateTime": "2017-09-30",
+    "value.value": 71.6542043686
+  },
+  {
+    "dateTime": "2017-10-01",
+    "value.value": 70.5637960434
+  },
+  {
+    "dateTime": "2017-10-02",
+    "value.value": 71.8249979019
+  },
+  {
+    "dateTime": "2017-10-03",
+    "value.value": 72.0452003479
+  },
+  {
+    "dateTime": "2017-10-04",
+    "value.value": 73.7207422256
+  },
+  {
+    "dateTime": "2017-10-05",
+    "value.value": 73.9714918137
+  },
+  {
+    "dateTime": "2017-10-06",
+    "value.value": 74.3629388809
+  },
+  {
+    "dateTime": "2017-10-07",
+    "value.value": 75.2485628128
+  },
+  {
+    "dateTime": "2017-10-08",
+    "value.value": 77.1769895554
+  },
+  {
+    "dateTime": "2017-10-09",
+    "value.value": 75.3907346725
+  },
+  {
+    "dateTime": "2017-10-10",
+    "value.value": 72.9455661774
+  },
+  {
+    "dateTime": "2017-10-11",
+    "value.value": 74.734951973
+  },
+  {
+    "dateTime": "2017-10-13",
+    "value.value": 74.6492357254
+  },
+  {
+    "dateTime": "2017-10-14",
+    "value.value": 73.2820062637
+  },
+  {
+    "dateTime": "2017-10-15",
+    "value.value": 72.3125734329
+  },
+  {
+    "dateTime": "2017-10-16",
+    "value.value": 72.42811203
+  },
+  {
+    "dateTime": "2017-10-17",
+    "value.value": 70.9393520355
+  },
+  {
+    "dateTime": "2017-10-18",
+    "value.value": 72.4902496338
+  },
+  {
+    "dateTime": "2017-10-19",
+    "value.value": 72.1992588043
+  },
+  {
+    "dateTime": "2017-10-20",
+    "value.value": 70.5748186111
+  },
+  {
+    "dateTime": "2017-10-21",
+    "value.value": 71.0594348907
+  },
+  {
+    "dateTime": "2017-10-27",
+    "value.value": 71.0462150574
+  },
+  {
+    "dateTime": "2017-10-28",
+    "value.value": 72.0855703354
+  },
+  {
+    "dateTime": "2017-10-29",
+    "value.value": 71.8664360046
+  },
+  {
+    "dateTime": "2017-10-30",
+    "value.value": 70.5952692032
+  },
+  {
+    "dateTime": "2017-10-31",
+    "value.value": 71.4215049744
+  },
+  {
+    "dateTime": "2017-11-01",
+    "value.value": 71.8072013855
+  },
+  {
+    "dateTime": "2017-11-07",
+    "value.value": 71.8319864273
+  },
+  {
+    "dateTime": "2017-11-08",
+    "value.value": 70.843503952
+  },
+  {
+    "dateTime": "2017-11-09",
+    "value.value": 69.8110361099
+  },
+  {
+    "dateTime": "2017-11-15",
+    "value.value": 68.4335422516
+  },
+  {
+    "dateTime": "2017-11-16",
+    "value.value": 67.5311470032
+  },
+  {
+    "dateTime": "2017-11-17",
+    "value.value": 68.8309926987
+  },
+  {
+    "dateTime": "2017-12-07",
+    "value.value": 70.0445432663
+  },
+  {
+    "dateTime": "2017-12-08",
+    "value.value": 72.4862222672
+  },
+  {
+    "dateTime": "2017-12-09",
+    "value.value": 74.820605278
+  },
+  {
+    "dateTime": "2017-12-10",
+    "value.value": 73.6819477081
+  },
+  {
+    "dateTime": "2017-12-11",
+    "value.value": 72.5583219528
+  },
+  {
+    "dateTime": "2017-12-12",
+    "value.value": 71.4145946503
+  },
+  {
+    "dateTime": "2017-12-13",
+    "value.value": 72.3141546249
+  },
+  {
+    "dateTime": "2017-12-14",
+    "value.value": 74.0541305542
+  },
+  {
+    "dateTime": "2017-12-15",
+    "value.value": 72.1807432175
+  },
+  {
+    "dateTime": "2017-12-16",
+    "value.value": 72.6481876373
+  },
+  {
+    "dateTime": "2017-12-18",
+    "value.value": 73.2050819397
+  },
+  {
+    "dateTime": "2017-12-24",
+    "value.value": 71.6035165787
+  },
+  {
+    "dateTime": "2017-12-25",
+    "value.value": 72.5233306885
+  },
+  {
+    "dateTime": "2017-12-26",
+    "value.value": 70.9008674622
+  },
+  {
+    "dateTime": "2017-12-27",
+    "value.value": 72.9535112381
+  },
+  {
+    "dateTime": "2017-12-28",
+    "value.value": 70.8497247696
+  },
+  {
+    "dateTime": "2017-12-29",
+    "value.value": 68.708732605
+  },
+  {
+    "dateTime": "2017-12-30",
+    "value.value": 66.8440446854
+  },
+  {
+    "dateTime": "2017-12-31",
+    "value.value": 65.2328824997
+  },
+  {
+    "dateTime": "2018-01-02",
+    "value.value": 66.8900632858
+  },
+  {
+    "dateTime": "2018-01-03",
+    "value.value": 65.215675354
+  },
+  {
+    "dateTime": "2018-01-04",
+    "value.value": 63.7844829559
+  },
+  {
+    "dateTime": "2018-01-08",
+    "value.value": 65.9102087021
+  },
+  {
+    "dateTime": "2018-01-09",
+    "value.value": 67.2835588455
+  },
+  {
+    "dateTime": "2018-01-10",
+    "value.value": 68.6954565048
+  },
+  {
+    "dateTime": "2018-01-12",
+    "value.value": 72.4675397873
+  },
+  {
+    "dateTime": "2018-01-13",
+    "value.value": 73.2281703949
+  },
+  {
+    "dateTime": "2018-01-23",
+    "value.value": 73.1707839966
+  },
+  {
+    "dateTime": "2018-01-24",
+    "value.value": 73.3909139633
+  },
+  {
+    "dateTime": "2018-01-25",
+    "value.value": 71.0403594971
+  },
+  {
+    "dateTime": "2018-01-26",
+    "value.value": 68.6322860718
+  },
+  {
+    "dateTime": "2018-01-27",
+    "value.value": 68.650604248
+  },
+  {
+    "dateTime": "2018-01-28",
+    "value.value": 69.3549833298
+  },
+  {
+    "dateTime": "2018-01-29",
+    "value.value": 67.8017921448
+  },
+  {
+    "dateTime": "2018-01-30",
+    "value.value": 67.1116676331
+  },
+  {
+    "dateTime": "2018-01-31",
+    "value.value": 65.7038955688
+  },
+  {
+    "dateTime": "2018-02-01",
+    "value.value": 66.4674329758
+  },
+  {
+    "dateTime": "2018-02-02",
+    "value.value": 66.8875465393
+  },
+  {
+    "dateTime": "2018-02-03",
+    "value.value": 67.2051620483
+  },
+  {
+    "dateTime": "2018-02-04",
+    "value.value": 67.3273983002
+  },
+  {
+    "dateTime": "2018-02-05",
+    "value.value": 66.8638086319
+  },
+  {
+    "dateTime": "2018-02-06",
+    "value.value": 67.7460899353
+  },
+  {
+    "dateTime": "2018-02-07",
+    "value.value": 70.0341358185
+  },
+  {
+    "dateTime": "2018-02-08",
+    "value.value": 68.340388298
+  },
+  {
+    "dateTime": "2018-02-09",
+    "value.value": 69.5269384384
+  },
+  {
+    "dateTime": "2018-02-10",
+    "value.value": 69.9437141418
+  },
+  {
+    "dateTime": "2018-02-11",
+    "value.value": 69.8305311203
+  },
+  {
+    "dateTime": "2018-02-12",
+    "value.value": 67.246421814
+  },
+  {
+    "dateTime": "2018-02-13",
+    "value.value": 65.6842336655
+  },
+  {
+    "dateTime": "2018-02-14",
+    "value.value": 66.6691589355
+  },
+  {
+    "dateTime": "2018-02-15",
+    "value.value": 67.076590538
+  },
+  {
+    "dateTime": "2018-02-16",
+    "value.value": 68.3573331833
+  },
+  {
+    "dateTime": "2018-02-19",
+    "value.value": 67.4340686798
+  },
+  {
+    "dateTime": "2018-02-20",
+    "value.value": 66.3695116043
+  },
+  {
+    "dateTime": "2018-02-21",
+    "value.value": 67.5331983566
+  },
+  {
+    "dateTime": "2018-02-22",
+    "value.value": 68.8466939926
+  },
+  {
+    "dateTime": "2018-02-23",
+    "value.value": 70.7276668549
+  },
+  {
+    "dateTime": "2018-02-24",
+    "value.value": 72.1036376953
+  },
+  {
+    "dateTime": "2018-02-25",
+    "value.value": 73.303319931
+  },
+  {
+    "dateTime": "2018-02-26",
+    "value.value": 73.4411201477
+  },
+  {
+    "dateTime": "2018-02-27",
+    "value.value": 70.0239057541
+  },
+  {
+    "dateTime": "2018-02-28",
+    "value.value": 68.4496030807
+  },
+  {
+    "dateTime": "2018-03-01",
+    "value.value": 68.2098789215
+  },
+  {
+    "dateTime": "2018-03-02",
+    "value.value": 67.8823490143
+  },
+  {
+    "dateTime": "2018-03-03",
+    "value.value": 70.296664238
+  },
+  {
+    "dateTime": "2018-03-09",
+    "value.value": 69.0706539154
+  },
+  {
+    "dateTime": "2018-03-10",
+    "value.value": 67.9419212341
+  },
+  {
+    "dateTime": "2018-03-11",
+    "value.value": 66.6853876114
+  },
+  {
+    "dateTime": "2018-03-13",
+    "value.value": 67.6788921356
+  },
+  {
+    "dateTime": "2018-03-14",
+    "value.value": 65.9128255844
+  },
+  {
+    "dateTime": "2018-03-15",
+    "value.value": 64.5717277527
+  },
+  {
+    "dateTime": "2018-03-16",
+    "value.value": 63.3197917938
+  },
+  {
+    "dateTime": "2018-03-17",
+    "value.value": 62.4685678482
+  },
+  {
+    "dateTime": "2018-03-18",
+    "value.value": 64.5903654099
+  },
+  {
+    "dateTime": "2018-03-19",
+    "value.value": 66.5971698761
+  },
+  {
+    "dateTime": "2018-03-20",
+    "value.value": 67.9472646713
+  },
+  {
+    "dateTime": "2018-03-23",
+    "value.value": 69.4478998184
+  },
+  {
+    "dateTime": "2018-03-24",
+    "value.value": 69.135840416
+  },
+  {
+    "dateTime": "2018-03-25",
+    "value.value": 68.8350915909
+  },
+  {
+    "dateTime": "2018-03-26",
+    "value.value": 67.3957014084
+  },
+  {
+    "dateTime": "2018-03-27",
+    "value.value": 66.8919706345
+  },
+  {
+    "dateTime": "2018-03-28",
+    "value.value": 68.6996355057
+  },
+  {
+    "dateTime": "2018-03-29",
+    "value.value": 69.2028551102
+  },
+  {
+    "dateTime": "2018-03-30",
+    "value.value": 70.5143995285
+  },
+  {
+    "dateTime": "2018-04-01",
+    "value.value": 71.276889801
+  },
+  {
+    "dateTime": "2018-04-02",
+    "value.value": 70.5580673218
+  },
+  {
+    "dateTime": "2018-04-03",
+    "value.value": 71.8869400024
+  },
+  {
+    "dateTime": "2018-04-04",
+    "value.value": 69.9722824097
+  },
+  {
+    "dateTime": "2018-04-05",
+    "value.value": 69.9326477051
+  },
+  {
+    "dateTime": "2018-04-06",
+    "value.value": 68.8854646683
+  },
+  {
+    "dateTime": "2018-04-07",
+    "value.value": 70.9030447006
+  },
+  {
+    "dateTime": "2018-04-10",
+    "value.value": 71.2662153244
+  },
+  {
+    "dateTime": "2018-04-11",
+    "value.value": 71.1684350967
+  },
+  {
+    "dateTime": "2018-04-12",
+    "value.value": 70.5761871338
+  },
+  {
+    "dateTime": "2018-04-13",
+    "value.value": 72.897151947
+  },
+  {
+    "dateTime": "2018-04-14",
+    "value.value": 72.6369466782
+  },
+  {
+    "dateTime": "2018-04-15",
+    "value.value": 70.9512357712
+  },
+  {
+    "dateTime": "2018-04-16",
+    "value.value": 69.9846019745
+  },
+  {
+    "dateTime": "2018-04-17",
+    "value.value": 70.5904150009
+  },
+  {
+    "dateTime": "2018-04-18",
+    "value.value": 73.6690263748
+  },
+  {
+    "dateTime": "2018-04-23",
+    "value.value": 76.3713531494
+  },
+  {
+    "dateTime": "2018-04-24",
+    "value.value": 78.1284856796
+  },
+  {
+    "dateTime": "2018-04-25",
+    "value.value": 80.0933666229
+  },
+  {
+    "dateTime": "2018-04-26",
+    "value.value": 78.1934967041
+  },
+  {
+    "dateTime": "2018-04-27",
+    "value.value": 77.2002954483
+  },
+  {
+    "dateTime": "2018-04-28",
+    "value.value": 74.7118377686
+  },
+  {
+    "dateTime": "2018-04-29",
+    "value.value": 72.7468738556
+  },
+  {
+    "dateTime": "2018-05-02",
+    "value.value": 73.5528993607
+  },
+  {
+    "dateTime": "2018-05-03",
+    "value.value": 72.8599052429
+  },
+  {
+    "dateTime": "2018-05-04",
+    "value.value": 72.0384988785
+  },
+  {
+    "dateTime": "2018-05-05",
+    "value.value": 71.6218576431
+  },
+  {
+    "dateTime": "2018-05-06",
+    "value.value": 70.8756198883
+  },
+  {
+    "dateTime": "2018-05-07",
+    "value.value": 73.2819452286
+  },
+  {
+    "dateTime": "2018-05-08",
+    "value.value": 73.1592559814
+  },
+  {
+    "dateTime": "2018-05-09",
+    "value.value": 73.1398448944
+  },
+  {
+    "dateTime": "2018-05-10",
+    "value.value": 73.1200389862
+  },
+  {
+    "dateTime": "2018-05-11",
+    "value.value": 73.8809461594
+  },
+  {
+    "dateTime": "2018-05-12",
+    "value.value": 72.9407396317
+  },
+  {
+    "dateTime": "2018-05-13",
+    "value.value": 71.2355585098
+  },
+  {
+    "dateTime": "2018-05-14",
+    "value.value": 72.3902359009
+  },
+  {
+    "dateTime": "2018-05-15",
+    "value.value": 71.6371173859
+  },
+  {
+    "dateTime": "2015-05-18",
+    "value.value": 63.0
+  },
+  {
+    "dateTime": "2015-05-19",
+    "value.value": 58.0965843201
+  },
+  {
+    "dateTime": "2015-05-20",
+    "value.value": 59.9096422195
+  },
+  {
+    "dateTime": "2015-05-21",
+    "value.value": 60.0622415543
+  },
+  {
+    "dateTime": "2015-05-22",
+    "value.value": 61.7161035538
+  },
+  {
+    "dateTime": "2015-05-23",
+    "value.value": 61.0846185684
+  },
+  {
+    "dateTime": "2015-05-24",
+    "value.value": 62.2635402679
+  },
+  {
+    "dateTime": "2015-05-25",
+    "value.value": 60.8931245804
+  },
+  {
+    "dateTime": "2015-05-26",
+    "value.value": 60.1051435471
+  },
+  {
+    "dateTime": "2015-05-27",
+    "value.value": 61.1850280762
+  },
+  {
+    "dateTime": "2015-05-28",
+    "value.value": 61.2956418991
+  },
+  {
+    "dateTime": "2015-05-29",
+    "value.value": 60.8482494354
+  },
+  {
+    "dateTime": "2015-05-30",
+    "value.value": 60.5906419754
+  },
+  {
+    "dateTime": "2015-05-31",
+    "value.value": 61.4644632339
+  },
+  {
+    "dateTime": "2015-06-01",
+    "value.value": 60.9454622269
+  },
+  {
+    "dateTime": "2015-06-02",
+    "value.value": 60.9504919052
+  },
+  {
+    "dateTime": "2015-06-03",
+    "value.value": 60.174238205
+  },
+  {
+    "dateTime": "2015-06-04",
+    "value.value": 61.521317482
+  },
+  {
+    "dateTime": "2015-06-05",
+    "value.value": 60.8653326035
+  },
+  {
+    "dateTime": "2015-06-06",
+    "value.value": 61.7934617996
+  },
+  {
+    "dateTime": "2015-06-07",
+    "value.value": 61.0882196426
+  },
+  {
+    "dateTime": "2015-06-08",
+    "value.value": 61.2433996201
+  },
+  {
+    "dateTime": "2015-06-09",
+    "value.value": 61.844871521
+  },
+  {
+    "dateTime": "2015-06-10",
+    "value.value": 62.6998825073
+  },
+  {
+    "dateTime": "2015-06-11",
+    "value.value": 61.655954361
+  },
+  {
+    "dateTime": "2015-06-12",
+    "value.value": 62.5892105103
+  },
+  {
+    "dateTime": "2015-06-13",
+    "value.value": 62.6152544022
+  },
+  {
+    "dateTime": "2015-06-14",
+    "value.value": 63.1413402557
+  },
+  {
+    "dateTime": "2015-06-15",
+    "value.value": 64.4664134979
+  },
+  {
+    "dateTime": "2015-06-16",
+    "value.value": 64.207233429
+  },
+  {
+    "dateTime": "2015-06-17",
+    "value.value": 64.0774297714
+  },
+  {
+    "dateTime": "2015-06-18",
+    "value.value": 63.7105712891
+  },
+  {
+    "dateTime": "2015-06-19",
+    "value.value": 62.913110733
+  },
+  {
+    "dateTime": "2015-06-20",
+    "value.value": 63.6681966782
+  },
+  {
+    "dateTime": "2015-06-21",
+    "value.value": 62.3593349457
+  },
+  {
+    "dateTime": "2015-06-22",
+    "value.value": 65.0143880844
+  },
+  {
+    "dateTime": "2015-06-23",
+    "value.value": 66.1317090988
+  },
+  {
+    "dateTime": "2015-06-24",
+    "value.value": 65.1432571411
+  },
+  {
+    "dateTime": "2015-06-25",
+    "value.value": 64.849738121
+  },
+  {
+    "dateTime": "2015-06-26",
+    "value.value": 63.7559690475
+  },
+  {
+    "dateTime": "2015-06-27",
+    "value.value": 63.4790458679
+  },
+  {
+    "dateTime": "2015-06-28",
+    "value.value": 61.8274908066
+  },
+  {
+    "dateTime": "2015-06-29",
+    "value.value": 61.5393867493
+  },
+  {
+    "dateTime": "2015-06-30",
+    "value.value": 61.0911750793
+  },
+  {
+    "dateTime": "2015-07-01",
+    "value.value": 60.6426200867
+  },
+  {
+    "dateTime": "2015-07-02",
+    "value.value": 61.7221088409
+  },
+  {
+    "dateTime": "2015-07-03",
+    "value.value": 62.7850980759
+  },
+  {
+    "dateTime": "2015-07-04",
+    "value.value": 63.3592205048
+  },
+  {
+    "dateTime": "2015-07-05",
+    "value.value": 63.6388072968
+  },
+  {
+    "dateTime": "2015-07-06",
+    "value.value": 63.5216617584
+  },
+  {
+    "dateTime": "2015-07-07",
+    "value.value": 61.4827041626
+  },
+  {
+    "dateTime": "2015-07-08",
+    "value.value": 61.4648733139
+  },
+  {
+    "dateTime": "2015-07-09",
+    "value.value": 61.9901895523
+  },
+  {
+    "dateTime": "2015-07-10",
+    "value.value": 61.7558917999
+  },
+  {
+    "dateTime": "2015-07-11",
+    "value.value": 61.6237125397
+  },
+  {
+    "dateTime": "2015-07-12",
+    "value.value": 63.5956773758
+  },
+  {
+    "dateTime": "2015-07-13",
+    "value.value": 62.1718797684
+  },
+  {
+    "dateTime": "2015-07-14",
+    "value.value": 62.7096138
+  },
+  {
+    "dateTime": "2015-07-15",
+    "value.value": 61.4868593216
+  },
+  {
+    "dateTime": "2015-07-16",
+    "value.value": 62.0068721771
+  },
+  {
+    "dateTime": "2015-07-17",
+    "value.value": 62.2906427383
+  },
+  {
+    "dateTime": "2015-07-18",
+    "value.value": 62.9825973511
+  },
+  {
+    "dateTime": "2015-07-19",
+    "value.value": 65.4219903946
+  },
+  {
+    "dateTime": "2015-07-20",
+    "value.value": 65.3774223328
+  },
+  {
+    "dateTime": "2015-07-21",
+    "value.value": 65.3285589218
+  },
+  {
+    "dateTime": "2015-07-22",
+    "value.value": 62.500995636
+  },
+  {
+    "dateTime": "2015-07-23",
+    "value.value": 63.6903972626
+  },
+  {
+    "dateTime": "2015-07-24",
+    "value.value": 63.5654525757
+  },
+  {
+    "dateTime": "2015-07-25",
+    "value.value": 63.8643007278
+  },
+  {
+    "dateTime": "2015-07-26",
+    "value.value": 63.8836050034
+  },
+  {
+    "dateTime": "2015-07-27",
+    "value.value": 63.745429039
+  },
+  {
+    "dateTime": "2015-07-28",
+    "value.value": 64.5227575302
+  },
+  {
+    "dateTime": "2015-07-29",
+    "value.value": 64.6864862442
+  },
+  {
+    "dateTime": "2015-07-30",
+    "value.value": 65.5190582275
+  },
+  {
+    "dateTime": "2015-07-31",
+    "value.value": 65.2990512848
+  },
+  {
+    "dateTime": "2015-08-01",
+    "value.value": 66.0293693542
+  },
+  {
+    "dateTime": "2015-08-02",
+    "value.value": 65.49264431
+  },
+  {
+    "dateTime": "2015-08-03",
+    "value.value": 65.0131072998
+  },
+  {
+    "dateTime": "2015-08-04",
+    "value.value": 63.155620575
+  },
+  {
+    "dateTime": "2015-08-05",
+    "value.value": 60.7351732254
+  },
+  {
+    "dateTime": "2015-08-06",
+    "value.value": 61.0730142593
+  },
+  {
+    "dateTime": "2015-08-07",
+    "value.value": 61.9162731171
+  },
+  {
+    "dateTime": "2015-08-08",
+    "value.value": 63.6704406738
+  },
+  {
+    "dateTime": "2015-08-09",
+    "value.value": 63.9201507568
+  },
+  {
+    "dateTime": "2015-08-10",
+    "value.value": 63.1466341019
+  },
+  {
+    "dateTime": "2015-08-11",
+    "value.value": 63.1249265671
+  },
+  {
+    "dateTime": "2015-08-12",
+    "value.value": 63.2653493881
+  },
+  {
+    "dateTime": "2015-08-13",
+    "value.value": 64.3329133987
+  },
+  {
+    "dateTime": "2015-08-14",
+    "value.value": 64.980345726
+  },
+  {
+    "dateTime": "2015-08-15",
+    "value.value": 63.5492477417
+  },
+  {
+    "dateTime": "2015-08-16",
+    "value.value": 65.4350605011
+  },
+  {
+    "dateTime": "2015-08-17",
+    "value.value": 63.5239248276
+  },
+  {
+    "dateTime": "2015-08-18",
+    "value.value": 63.7991275787
+  },
+  {
+    "dateTime": "2015-08-19",
+    "value.value": 63.2914304733
+  },
+  {
+    "dateTime": "2015-08-20",
+    "value.value": 62.9472723007
+  },
+  {
+    "dateTime": "2015-08-21",
+    "value.value": 62.9558134079
+  },
+  {
+    "dateTime": "2015-08-22",
+    "value.value": 63.4738903046
+  },
+  {
+    "dateTime": "2015-08-23",
+    "value.value": 63.2147893906
+  },
+  {
+    "dateTime": "2015-08-24",
+    "value.value": 62.9966287613
+  },
+  {
+    "dateTime": "2015-08-25",
+    "value.value": 62.2687177658
+  },
+  {
+    "dateTime": "2015-08-26",
+    "value.value": 61.0076761246
+  },
+  {
+    "dateTime": "2015-08-27",
+    "value.value": 61.2849082947
+  },
+  {
+    "dateTime": "2015-08-28",
+    "value.value": 60.1921443939
+  },
+  {
+    "dateTime": "2015-08-29",
+    "value.value": 60.4706954956
+  },
+  {
+    "dateTime": "2015-08-30",
+    "value.value": 59.9511146545
+  },
+  {
+    "dateTime": "2015-09-01",
+    "value.value": 60.1083202362
+  },
+  {
+    "dateTime": "2015-09-02",
+    "value.value": 60.2525625229
+  },
+  {
+    "dateTime": "2015-09-03",
+    "value.value": 60.8897533417
+  },
+  {
+    "dateTime": "2015-09-04",
+    "value.value": 61.2605037689
+  },
+  {
+    "dateTime": "2015-09-05",
+    "value.value": 61.9138555527
+  },
+  {
+    "dateTime": "2015-09-06",
+    "value.value": 63.086602211
+  },
+  {
+    "dateTime": "2015-09-07",
+    "value.value": 63.6292266846
+  },
+  {
+    "dateTime": "2015-09-08",
+    "value.value": 63.7704753876
+  },
+  {
+    "dateTime": "2015-09-09",
+    "value.value": 61.4803524017
+  },
+  {
+    "dateTime": "2015-09-10",
+    "value.value": 61.9990968704
+  },
+  {
+    "dateTime": "2015-09-11",
+    "value.value": 61.2423048019
+  },
+  {
+    "dateTime": "2015-09-12",
+    "value.value": 61.3290395737
+  },
+  {
+    "dateTime": "2015-09-13",
+    "value.value": 61.6685113907
+  },
+  {
+    "dateTime": "2015-09-14",
+    "value.value": 61.7558450699
+  },
+  {
+    "dateTime": "2015-09-15",
+    "value.value": 62.2093162537
+  },
+  {
+    "dateTime": "2015-09-16",
+    "value.value": 60.4004125595
+  },
+  {
+    "dateTime": "2015-09-17",
+    "value.value": 60.5957078934
+  },
+  {
+    "dateTime": "2015-09-18",
+    "value.value": 61.6717472076
+  },
+  {
+    "dateTime": "2015-09-19",
+    "value.value": 61.5688467026
+  },
+  {
+    "dateTime": "2015-09-20",
+    "value.value": 61.5153932571
+  },
+  {
+    "dateTime": "2015-09-21",
+    "value.value": 60.9705219269
+  },
+  {
+    "dateTime": "2015-09-22",
+    "value.value": 60.8806314468
+  },
+  {
+    "dateTime": "2015-09-23",
+    "value.value": 61.4924182892
+  },
+  {
+    "dateTime": "2015-09-24",
+    "value.value": 61.4235458374
+  },
+  {
+    "dateTime": "2015-09-25",
+    "value.value": 62.539106369
+  },
+  {
+    "dateTime": "2015-09-26",
+    "value.value": 62.275390625
+  },
+  {
+    "dateTime": "2015-09-27",
+    "value.value": 62.7565021515
+  },
+  {
+    "dateTime": "2015-09-28",
+    "value.value": 62.4401292801
+  },
+  {
+    "dateTime": "2015-09-29",
+    "value.value": 60.3362007141
+  },
+  {
+    "dateTime": "2015-09-30",
+    "value.value": 59.7095470428
+  },
+  {
+    "dateTime": "2015-10-01",
+    "value.value": 59.9448299408
+  },
+  {
+    "dateTime": "2015-10-02",
+    "value.value": 60.5906591415
+  },
+  {
+    "dateTime": "2015-10-03",
+    "value.value": 61.2104625702
+  },
+  {
+    "dateTime": "2015-10-04",
+    "value.value": 60.9410333633
+  },
+  {
+    "dateTime": "2015-10-05",
+    "value.value": 61.5158834457
+  },
+  {
+    "dateTime": "2015-10-06",
+    "value.value": 61.4354438782
+  },
+  {
+    "dateTime": "2015-10-07",
+    "value.value": 59.3066368103
+  },
+  {
+    "dateTime": "2015-10-08",
+    "value.value": 58.6065158844
+  },
+  {
+    "dateTime": "2015-10-09",
+    "value.value": 60.4884777069
+  },
+  {
+    "dateTime": "2015-10-10",
+    "value.value": 60.7675085068
+  },
+  {
+    "dateTime": "2015-10-11",
+    "value.value": 60.4895706177
+  },
+  {
+    "dateTime": "2015-10-12",
+    "value.value": 59.9193639755
+  },
+  {
+    "dateTime": "2015-10-13",
+    "value.value": 59.4171333313
+  },
+  {
+    "dateTime": "2015-10-14",
+    "value.value": 58.5387945175
+  },
+  {
+    "dateTime": "2015-10-15",
+    "value.value": 61.0067815781
+  },
+  {
+    "dateTime": "2015-10-16",
+    "value.value": 61.7253923416
+  },
+  {
+    "dateTime": "2015-10-17",
+    "value.value": 61.9385490417
+  },
+  {
+    "dateTime": "2015-10-18",
+    "value.value": 63.4930534363
+  },
+  {
+    "dateTime": "2015-10-19",
+    "value.value": 64.7339611053
+  },
+  {
+    "dateTime": "2015-10-20",
+    "value.value": 67.4799795151
+  },
+  {
+    "dateTime": "2015-10-21",
+    "value.value": 67.1867074966
+  },
+  {
+    "dateTime": "2015-10-22",
+    "value.value": 66.6898107529
+  },
+  {
+    "dateTime": "2015-10-23",
+    "value.value": 65.3861665726
+  },
+  {
+    "dateTime": "2015-10-24",
+    "value.value": 66.2942590714
+  },
+  {
+    "dateTime": "2015-10-25",
+    "value.value": 65.6522312164
+  },
+  {
+    "dateTime": "2015-10-26",
+    "value.value": 62.92760849
+  },
+  {
+    "dateTime": "2015-10-27",
+    "value.value": 60.6376342773
+  },
+  {
+    "dateTime": "2015-10-28",
+    "value.value": 60.205619812
+  },
+  {
+    "dateTime": "2015-10-29",
+    "value.value": 60.7455005646
+  },
+  {
+    "dateTime": "2015-10-30",
+    "value.value": 58.698428154
+  },
+  {
+    "dateTime": "2015-10-31",
+    "value.value": 59.3884906769
+  },
+  {
+    "dateTime": "2015-11-01",
+    "value.value": 58.9721755981
+  },
+  {
+    "dateTime": "2015-11-02",
+    "value.value": 58.8543081284
+  },
+  {
+    "dateTime": "2015-11-04",
+    "value.value": 59.8029994965
+  },
+  {
+    "dateTime": "2015-11-05",
+    "value.value": 62.1669206619
+  },
+  {
+    "dateTime": "2015-11-06",
+    "value.value": 62.3954734802
+  },
+  {
+    "dateTime": "2015-11-07",
+    "value.value": 59.8583688736
+  },
+  {
+    "dateTime": "2015-11-08",
+    "value.value": 60.5398712158
+  },
+  {
+    "dateTime": "2015-11-09",
+    "value.value": 61.4388027191
+  },
+  {
+    "dateTime": "2015-11-10",
+    "value.value": 60.4182634354
+  },
+  {
+    "dateTime": "2015-11-11",
+    "value.value": 61.0173749924
+  },
+  {
+    "dateTime": "2015-11-12",
+    "value.value": 60.6308269501
+  },
+  {
+    "dateTime": "2015-11-13",
+    "value.value": 59.9170064926
+  },
+  {
+    "dateTime": "2015-11-14",
+    "value.value": 59.7350912094
+  },
+  {
+    "dateTime": "2015-11-15",
+    "value.value": 59.3855314255
+  },
+  {
+    "dateTime": "2015-11-16",
+    "value.value": 60.3091688156
+  },
+  {
+    "dateTime": "2015-11-17",
+    "value.value": 60.2796983719
+  },
+  {
+    "dateTime": "2015-11-18",
+    "value.value": 59.7489538193
+  },
+  {
+    "dateTime": "2015-11-19",
+    "value.value": 59.7721843719
+  },
+  {
+    "dateTime": "2015-11-20",
+    "value.value": 59.6799554825
+  },
+  {
+    "dateTime": "2015-11-21",
+    "value.value": 62.0849456787
+  },
+  {
+    "dateTime": "2015-11-22",
+    "value.value": 63.7473192215
+  },
+  {
+    "dateTime": "2015-11-23",
+    "value.value": 63.7976503372
+  },
+  {
+    "dateTime": "2015-11-24",
+    "value.value": 62.7684745789
+  },
+  {
+    "dateTime": "2015-11-25",
+    "value.value": 62.6026601791
+  },
+  {
+    "dateTime": "2015-11-26",
+    "value.value": 62.1689434052
+  },
+  {
+    "dateTime": "2015-11-27",
+    "value.value": 61.7767009735
+  },
+  {
+    "dateTime": "2015-11-29",
+    "value.value": 61.3524847031
+  },
+  {
+    "dateTime": "2015-11-30",
+    "value.value": 60.9015083313
+  },
+  {
+    "dateTime": "2015-12-01",
+    "value.value": 61.3688602448
+  },
+  {
+    "dateTime": "2015-12-02",
+    "value.value": 63.6247282028
+  },
+  {
+    "dateTime": "2015-12-03",
+    "value.value": 63.0408582687
+  },
+  {
+    "dateTime": "2015-12-04",
+    "value.value": 62.8643684387
+  },
+  {
+    "dateTime": "2015-12-05",
+    "value.value": 62.0038805008
+  },
+  {
+    "dateTime": "2015-12-06",
+    "value.value": 61.1018877029
+  },
+  {
+    "dateTime": "2015-12-07",
+    "value.value": 61.7860832214
+  },
+  {
+    "dateTime": "2015-12-08",
+    "value.value": 60.6037015915
+  },
+  {
+    "dateTime": "2015-12-09",
+    "value.value": 60.4491386414
+  },
+  {
+    "dateTime": "2015-12-10",
+    "value.value": 60.3607006073
+  },
+  {
+    "dateTime": "2015-12-11",
+    "value.value": 58.7758989334
+  },
+  {
+    "dateTime": "2015-12-12",
+    "value.value": 58.3751516342
+  },
+  {
+    "dateTime": "2015-12-13",
+    "value.value": 58.7095365524
+  },
+  {
+    "dateTime": "2015-12-14",
+    "value.value": 59.3402414322
+  },
+  {
+    "dateTime": "2015-12-15",
+    "value.value": 57.2218208313
+  },
+  {
+    "dateTime": "2015-12-16",
+    "value.value": 58.6117353439
+  },
+  {
+    "dateTime": "2015-12-17",
+    "value.value": 58.7967529297
+  },
+  {
+    "dateTime": "2015-12-19",
+    "value.value": 59.9829912186
+  },
+  {
+    "dateTime": "2015-12-20",
+    "value.value": 59.9181652069
+  },
+  {
+    "dateTime": "2015-12-21",
+    "value.value": 59.4770145416
+  },
+  {
+    "dateTime": "2015-12-22",
+    "value.value": 59.2793617249
+  },
+  {
+    "dateTime": "2015-12-23",
+    "value.value": 59.8226766586
+  },
+  {
+    "dateTime": "2015-12-24",
+    "value.value": 59.3588876724
+  },
+  {
+    "dateTime": "2015-12-25",
+    "value.value": 60.2435970306
+  },
+  {
+    "dateTime": "2015-12-26",
+    "value.value": 60.933298111
+  },
+  {
+    "dateTime": "2015-12-27",
+    "value.value": 60.0419483185
+  },
+  {
+    "dateTime": "2015-12-28",
+    "value.value": 60.1293039322
+  },
+  {
+    "dateTime": "2015-12-30",
+    "value.value": 61.8012619019
+  },
+  {
+    "dateTime": "2015-12-31",
+    "value.value": 61.1268863678
+  },
+  {
+    "dateTime": "2016-01-01",
+    "value.value": 61.2630033493
+  },
+  {
+    "dateTime": "2016-01-02",
+    "value.value": 59.2921724319
+  },
+  {
+    "dateTime": "2016-01-03",
+    "value.value": 60.2063436508
+  },
+  {
+    "dateTime": "2016-01-04",
+    "value.value": 58.6874570847
+  },
+  {
+    "dateTime": "2016-01-05",
+    "value.value": 59.0852937698
+  },
+  {
+    "dateTime": "2016-01-06",
+    "value.value": 59.7904319763
+  },
+  {
+    "dateTime": "2016-01-07",
+    "value.value": 59.9593505859
+  },
+  {
+    "dateTime": "2016-01-08",
+    "value.value": 58.804602623
+  },
+  {
+    "dateTime": "2016-01-09",
+    "value.value": 58.8380594254
+  },
+  {
+    "dateTime": "2016-01-10",
+    "value.value": 57.9841375351
+  },
+  {
+    "dateTime": "2016-01-11",
+    "value.value": 56.8307361603
+  },
+  {
+    "dateTime": "2016-01-12",
+    "value.value": 56.30809021
+  },
+  {
+    "dateTime": "2016-01-13",
+    "value.value": 56.8074197769
+  },
+  {
+    "dateTime": "2016-01-15",
+    "value.value": 58.6761217117
+  },
+  {
+    "dateTime": "2016-01-16",
+    "value.value": 61.3281106949
+  },
+  {
+    "dateTime": "2016-01-17",
+    "value.value": 63.4472637177
+  },
+  {
+    "dateTime": "2016-01-18",
+    "value.value": 64.5232219696
+  },
+  {
+    "dateTime": "2016-01-19",
+    "value.value": 65.8220329285
+  },
+  {
+    "dateTime": "2016-01-20",
+    "value.value": 67.1418952942
+  },
+  {
+    "dateTime": "2016-01-21",
+    "value.value": 68.4652261734
+  },
+  {
+    "dateTime": "2016-01-23",
+    "value.value": 69.8605442047
+  },
+  {
+    "dateTime": "2016-01-24",
+    "value.value": 69.6837778091
+  },
+  {
+    "dateTime": "2016-01-25",
+    "value.value": 69.6870069504
+  },
+  {
+    "dateTime": "2016-01-26",
+    "value.value": 69.7480230331
+  },
+  {
+    "dateTime": "2016-01-27",
+    "value.value": 67.5428094864
+  },
+  {
+    "dateTime": "2016-01-28",
+    "value.value": 67.2494106293
+  },
+  {
+    "dateTime": "2016-01-29",
+    "value.value": 66.7231035233
+  },
+  {
+    "dateTime": "2016-01-30",
+    "value.value": 65.6289186478
+  },
+  {
+    "dateTime": "2016-01-31",
+    "value.value": 65.9058876038
+  },
+  {
+    "dateTime": "2016-02-01",
+    "value.value": 63.8066606522
+  },
+  {
+    "dateTime": "2016-02-02",
+    "value.value": 64.375916481
+  },
+  {
+    "dateTime": "2016-02-03",
+    "value.value": 63.6272287369
+  },
+  {
+    "dateTime": "2016-02-04",
+    "value.value": 63.2886381149
+  },
+  {
+    "dateTime": "2016-02-05",
+    "value.value": 60.6663074493
+  },
+  {
+    "dateTime": "2016-02-06",
+    "value.value": 60.7507829666
+  },
+  {
+    "dateTime": "2016-02-07",
+    "value.value": 59.9942626953
+  },
+  {
+    "dateTime": "2016-02-08",
+    "value.value": 58.5468635559
+  },
+  {
+    "dateTime": "2016-02-09",
+    "value.value": 59.7819185257
+  },
+  {
+    "dateTime": "2016-02-10",
+    "value.value": 60.3913183212
+  },
+  {
+    "dateTime": "2016-02-11",
+    "value.value": 60.7789754868
+  },
+  {
+    "dateTime": "2016-02-12",
+    "value.value": 60.8101034164
+  },
+  {
+    "dateTime": "2016-02-13",
+    "value.value": 61.5542631149
+  },
+  {
+    "dateTime": "2016-02-14",
+    "value.value": 62.3732690811
+  },
+  {
+    "dateTime": "2016-02-15",
+    "value.value": 63.1721487045
+  },
+  {
+    "dateTime": "2016-02-16",
+    "value.value": 63.588968277
+  },
+  {
+    "dateTime": "2016-02-17",
+    "value.value": 62.5605535507
+  },
+  {
+    "dateTime": "2016-02-18",
+    "value.value": 62.600361824
+  },
+  {
+    "dateTime": "2016-02-19",
+    "value.value": 63.1401138306
+  },
+  {
+    "dateTime": "2016-02-20",
+    "value.value": 63.812541008
+  },
+  {
+    "dateTime": "2016-02-21",
+    "value.value": 64.4463376999
+  },
+  {
+    "dateTime": "2016-02-22",
+    "value.value": 64.95038414
+  },
+  {
+    "dateTime": "2016-02-23",
+    "value.value": 65.1142044067
+  },
+  {
+    "dateTime": "2016-02-24",
+    "value.value": 65.7181282043
+  },
+  {
+    "dateTime": "2016-02-25",
+    "value.value": 64.9938602448
+  },
+  {
+    "dateTime": "2016-02-26",
+    "value.value": 64.4548654556
+  },
+  {
+    "dateTime": "2016-02-27",
+    "value.value": 63.8268728256
+  },
+  {
+    "dateTime": "2016-02-28",
+    "value.value": 61.9568691254
+  },
+  {
+    "dateTime": "2016-02-29",
+    "value.value": 62.6939544678
+  },
+  {
+    "dateTime": "2016-03-01",
+    "value.value": 63.0554513931
+  },
+  {
+    "dateTime": "2016-03-02",
+    "value.value": 62.870095253
+  },
+  {
+    "dateTime": "2016-03-03",
+    "value.value": 62.2503242493
+  },
+  {
+    "dateTime": "2016-03-04",
+    "value.value": 61.9061422348
+  },
+  {
+    "dateTime": "2016-03-05",
+    "value.value": 61.6276245117
+  },
+  {
+    "dateTime": "2016-03-06",
+    "value.value": 61.6721334457
+  },
+  {
+    "dateTime": "2016-03-07",
+    "value.value": 60.8977432251
+  },
+  {
+    "dateTime": "2016-03-08",
+    "value.value": 61.2245178223
+  },
+  {
+    "dateTime": "2016-03-09",
+    "value.value": 61.1954984665
+  },
+  {
+    "dateTime": "2016-03-10",
+    "value.value": 61.6078062057
+  },
+  {
+    "dateTime": "2016-03-11",
+    "value.value": 61.5107097626
+  },
+  {
+    "dateTime": "2016-03-12",
+    "value.value": 58.6033744812
+  },
+  {
+    "dateTime": "2016-03-13",
+    "value.value": 58.8092956543
+  },
+  {
+    "dateTime": "2016-03-14",
+    "value.value": 58.8166618347
+  },
+  {
+    "dateTime": "2016-03-15",
+    "value.value": 58.5515413284
+  },
+  {
+    "dateTime": "2016-03-16",
+    "value.value": 59.363702774
+  },
+  {
+    "dateTime": "2016-03-17",
+    "value.value": 59.743932724
+  },
+  {
+    "dateTime": "2016-03-18",
+    "value.value": 60.0998859406
+  },
+  {
+    "dateTime": "2016-03-19",
+    "value.value": 60.75228405
+  },
+  {
+    "dateTime": "2016-03-20",
+    "value.value": 60.9691534042
+  },
+  {
+    "dateTime": "2016-03-21",
+    "value.value": 60.2616472244
+  },
+  {
+    "dateTime": "2016-03-22",
+    "value.value": 60.0329904556
+  },
+  {
+    "dateTime": "2016-03-23",
+    "value.value": 56.4312944412
+  },
+  {
+    "dateTime": "2016-03-24",
+    "value.value": 58.8499698639
+  },
+  {
+    "dateTime": "2016-03-25",
+    "value.value": 61.0666160583
+  },
+  {
+    "dateTime": "2016-03-26",
+    "value.value": 61.3462581635
+  },
+  {
+    "dateTime": "2016-03-27",
+    "value.value": 59.4635381699
+  },
+  {
+    "dateTime": "2016-03-28",
+    "value.value": 59.0416002274
+  },
+  {
+    "dateTime": "2016-03-29",
+    "value.value": 56.4381952286
+  },
+  {
+    "dateTime": "2016-03-30",
+    "value.value": 56.1237773895
+  },
+  {
+    "dateTime": "2016-03-31",
+    "value.value": 56.8331422806
+  },
+  {
+    "dateTime": "2016-04-01",
+    "value.value": 57.419675827
+  },
+  {
+    "dateTime": "2016-04-02",
+    "value.value": 57.0438776016
+  },
+  {
+    "dateTime": "2016-04-03",
+    "value.value": 58.1448974609
+  },
+  {
+    "dateTime": "2016-04-04",
+    "value.value": 57.7740812302
+  },
+  {
+    "dateTime": "2016-04-05",
+    "value.value": 58.6616296768
+  },
+  {
+    "dateTime": "2016-04-06",
+    "value.value": 57.6709108353
+  },
+  {
+    "dateTime": "2016-04-07",
+    "value.value": 58.7760572433
+  },
+  {
+    "dateTime": "2016-04-08",
+    "value.value": 58.7039604187
+  },
+  {
+    "dateTime": "2016-04-09",
+    "value.value": 58.6196813583
+  },
+  {
+    "dateTime": "2016-04-10",
+    "value.value": 58.4208898544
+  },
+  {
+    "dateTime": "2016-04-11",
+    "value.value": 58.9748773575
+  },
+  {
+    "dateTime": "2016-04-12",
+    "value.value": 59.0109796524
+  },
+  {
+    "dateTime": "2016-04-13",
+    "value.value": 59.751124382
+  },
+  {
+    "dateTime": "2016-04-14",
+    "value.value": 59.6490631104
+  },
+  {
+    "dateTime": "2016-04-15",
+    "value.value": 59.5505285263
+  },
+  {
+    "dateTime": "2016-04-16",
+    "value.value": 60.2763233185
+  },
+  {
+    "dateTime": "2016-04-17",
+    "value.value": 61.3548669815
+  },
+  {
+    "dateTime": "2016-04-18",
+    "value.value": 59.9391489029
+  },
+  {
+    "dateTime": "2016-04-19",
+    "value.value": 59.5635414124
+  },
+  {
+    "dateTime": "2016-04-20",
+    "value.value": 59.8630418777
+  },
+  {
+    "dateTime": "2016-04-22",
+    "value.value": 59.1878900528
+  },
+  {
+    "dateTime": "2016-04-23",
+    "value.value": 59.4204397202
+  },
+  {
+    "dateTime": "2016-04-24",
+    "value.value": 58.9198732376
+  },
+  {
+    "dateTime": "2016-04-25",
+    "value.value": 59.4104595184
+  },
+  {
+    "dateTime": "2016-04-26",
+    "value.value": 59.997800827
+  },
+  {
+    "dateTime": "2016-04-27",
+    "value.value": 60.6962690353
+  },
+  {
+    "dateTime": "2016-04-28",
+    "value.value": 61.7938871384
+  },
+  {
+    "dateTime": "2016-04-29",
+    "value.value": 61.4876384735
+  },
+  {
+    "dateTime": "2016-04-30",
+    "value.value": 59.1450033188
+  },
+  {
+    "dateTime": "2016-05-01",
+    "value.value": 60.1635904312
+  },
+  {
+    "dateTime": "2016-05-02",
+    "value.value": 59.4934358597
+  },
+  {
+    "dateTime": "2016-05-03",
+    "value.value": 58.7503376007
+  },
+  {
+    "dateTime": "2016-05-04",
+    "value.value": 59.8857278824
+  },
+  {
+    "dateTime": "2016-05-05",
+    "value.value": 59.4764165878
+  },
+  {
+    "dateTime": "2016-05-06",
+    "value.value": 59.6120414734
+  },
+  {
+    "dateTime": "2016-05-07",
+    "value.value": 58.8236484528
+  },
+  {
+    "dateTime": "2016-05-08",
+    "value.value": 58.6554298401
+  },
+  {
+    "dateTime": "2016-05-09",
+    "value.value": 60.5130395889
+  },
+  {
+    "dateTime": "2016-05-10",
+    "value.value": 59.3147621155
+  },
+  {
+    "dateTime": "2016-05-11",
+    "value.value": 59.1945095062
+  },
+  {
+    "dateTime": "2016-05-12",
+    "value.value": 60.5923995972
+  },
+  {
+    "dateTime": "2016-05-13",
+    "value.value": 60.5375919342
+  },
+  {
+    "dateTime": "2016-05-14",
+    "value.value": 60.8316640854
+  },
+  {
+    "dateTime": "2016-05-15",
+    "value.value": 61.4144220352
+  },
+  {
+    "dateTime": "2018-05-16",
+    "value.value": 69.8320074081
+  },
+  {
+    "dateTime": "2018-05-17",
+    "value.value": 70.4640626907
+  },
+  {
+    "dateTime": "2018-05-18",
+    "value.value": 70.4072294235
+  },
+  {
+    "dateTime": "2016-05-16",
+    "value.value": 61.8707141876
+  },
+  {
+    "dateTime": "2016-05-17",
+    "value.value": 59.9469203949
+  },
+  {
+    "dateTime": "2016-05-18",
+    "value.value": 57.9620714188
+  },
+  {
+    "dateTime": "2016-05-19",
+    "value.value": 58.9395704269
+  },
+  {
+    "dateTime": "2016-05-20",
+    "value.value": 58.4677219391
+  },
+  {
+    "dateTime": "2016-05-21",
+    "value.value": 60.6753854752
+  },
+  {
+    "dateTime": "2016-05-23",
+    "value.value": 60.4966096878
+  },
+  {
+    "dateTime": "2016-05-24",
+    "value.value": 59.7362289429
+  },
+  {
+    "dateTime": "2016-05-25",
+    "value.value": 59.6603441238
+  },
+  {
+    "dateTime": "2016-05-26",
+    "value.value": 58.7192974091
+  },
+  {
+    "dateTime": "2016-05-27",
+    "value.value": 59.4080905914
+  },
+  {
+    "dateTime": "2016-05-28",
+    "value.value": 59.7691221237
+  },
+  {
+    "dateTime": "2016-05-29",
+    "value.value": 61.000248909
+  },
+  {
+    "dateTime": "2016-05-30",
+    "value.value": 61.7019891739
+  },
+  {
+    "dateTime": "2016-05-31",
+    "value.value": 64.1506242752
+  },
+  {
+    "dateTime": "2016-06-01",
+    "value.value": 63.5910692215
+  },
+  {
+    "dateTime": "2016-06-02",
+    "value.value": 63.0670318604
+  },
+  {
+    "dateTime": "2016-06-03",
+    "value.value": 62.0656356812
+  },
+  {
+    "dateTime": "2016-06-04",
+    "value.value": 61.7356033325
+  },
+  {
+    "dateTime": "2016-06-05",
+    "value.value": 61.1055593491
+  },
+  {
+    "dateTime": "2016-06-06",
+    "value.value": 60.9123563766
+  },
+  {
+    "dateTime": "2016-06-07",
+    "value.value": 59.7635040283
+  },
+  {
+    "dateTime": "2016-06-08",
+    "value.value": 59.4140272141
+  },
+  {
+    "dateTime": "2016-06-09",
+    "value.value": 61.6077070236
+  },
+  {
+    "dateTime": "2016-06-10",
+    "value.value": 62.0873508453
+  },
+  {
+    "dateTime": "2016-06-11",
+    "value.value": 61.807756424
+  },
+  {
+    "dateTime": "2016-06-12",
+    "value.value": 61.5450706482
+  },
+  {
+    "dateTime": "2016-06-13",
+    "value.value": 61.3593063354
+  },
+  {
+    "dateTime": "2016-06-14",
+    "value.value": 61.3088598251
+  },
+  {
+    "dateTime": "2016-06-15",
+    "value.value": 61.1834440231
+  },
+  {
+    "dateTime": "2016-06-16",
+    "value.value": 60.3261871338
+  },
+  {
+    "dateTime": "2016-06-17",
+    "value.value": 59.4763250351
+  },
+  {
+    "dateTime": "2016-06-18",
+    "value.value": 59.942656517
+  },
+  {
+    "dateTime": "2016-06-19",
+    "value.value": 59.9491281509
+  },
+  {
+    "dateTime": "2016-06-20",
+    "value.value": 59.9020223618
+  },
+  {
+    "dateTime": "2016-06-21",
+    "value.value": 60.0929994583
+  },
+  {
+    "dateTime": "2016-06-22",
+    "value.value": 59.8808012009
+  },
+  {
+    "dateTime": "2016-06-23",
+    "value.value": 61.0940418243
+  },
+  {
+    "dateTime": "2016-06-24",
+    "value.value": 60.9351243973
+  },
+  {
+    "dateTime": "2016-06-25",
+    "value.value": 59.3889732361
+  },
+  {
+    "dateTime": "2016-06-26",
+    "value.value": 61.5845403671
+  },
+  {
+    "dateTime": "2016-06-27",
+    "value.value": 58.9842157364
+  },
+  {
+    "dateTime": "2016-06-28",
+    "value.value": 59.4632673264
+  },
+  {
+    "dateTime": "2016-06-29",
+    "value.value": 59.2671432495
+  },
+  {
+    "dateTime": "2016-06-30",
+    "value.value": 57.8610115051
+  },
+  {
+    "dateTime": "2016-07-01",
+    "value.value": 58.2783088684
+  },
+  {
+    "dateTime": "2016-07-02",
+    "value.value": 59.5155000687
+  },
+  {
+    "dateTime": "2016-07-03",
+    "value.value": 61.8021621704
+  },
+  {
+    "dateTime": "2016-07-04",
+    "value.value": 59.5427112579
+  },
+  {
+    "dateTime": "2016-07-05",
+    "value.value": 60.1288604736
+  },
+  {
+    "dateTime": "2016-07-06",
+    "value.value": 58.4443340302
+  },
+  {
+    "dateTime": "2016-07-07",
+    "value.value": 58.5216550827
+  },
+  {
+    "dateTime": "2016-07-08",
+    "value.value": 58.845916748
+  },
+  {
+    "dateTime": "2016-07-09",
+    "value.value": 58.9843730927
+  },
+  {
+    "dateTime": "2016-07-10",
+    "value.value": 58.818312645
+  },
+  {
+    "dateTime": "2016-07-11",
+    "value.value": 58.0408983231
+  },
+  {
+    "dateTime": "2016-07-12",
+    "value.value": 56.0421848297
+  },
+  {
+    "dateTime": "2016-07-13",
+    "value.value": 58.2460575104
+  },
+  {
+    "dateTime": "2016-07-14",
+    "value.value": 59.3785705566
+  },
+  {
+    "dateTime": "2016-07-15",
+    "value.value": 58.5606060028
+  },
+  {
+    "dateTime": "2016-07-16",
+    "value.value": 59.146399498
+  },
+  {
+    "dateTime": "2016-07-17",
+    "value.value": 58.8555498123
+  },
+  {
+    "dateTime": "2016-07-18",
+    "value.value": 57.3631086349
+  },
+  {
+    "dateTime": "2016-07-19",
+    "value.value": 57.6908044815
+  },
+  {
+    "dateTime": "2016-07-20",
+    "value.value": 58.8246068954
+  },
+  {
+    "dateTime": "2016-07-21",
+    "value.value": 57.502122879
+  },
+  {
+    "dateTime": "2016-07-22",
+    "value.value": 57.2544994354
+  },
+  {
+    "dateTime": "2016-07-23",
+    "value.value": 57.2310009003
+  },
+  {
+    "dateTime": "2016-07-24",
+    "value.value": 57.2221975327
+  },
+  {
+    "dateTime": "2016-07-25",
+    "value.value": 57.7771902084
+  },
+  {
+    "dateTime": "2016-07-26",
+    "value.value": 57.0829343796
+  },
+  {
+    "dateTime": "2016-07-27",
+    "value.value": 57.075214386
+  },
+  {
+    "dateTime": "2016-07-28",
+    "value.value": 56.9463357925
+  },
+  {
+    "dateTime": "2016-07-29",
+    "value.value": 57.8960399628
+  },
+  {
+    "dateTime": "2016-07-30",
+    "value.value": 58.3285608292
+  },
+  {
+    "dateTime": "2016-07-31",
+    "value.value": 58.544670105
+  },
+  {
+    "dateTime": "2016-08-01",
+    "value.value": 61.0888214111
+  },
+  {
+    "dateTime": "2016-08-02",
+    "value.value": 60.985162735
+  },
+  {
+    "dateTime": "2016-08-03",
+    "value.value": 61.3148536682
+  },
+  {
+    "dateTime": "2016-08-04",
+    "value.value": 59.5847063065
+  },
+  {
+    "dateTime": "2016-08-05",
+    "value.value": 59.6741218567
+  },
+  {
+    "dateTime": "2016-08-06",
+    "value.value": 59.8890390396
+  },
+  {
+    "dateTime": "2016-08-07",
+    "value.value": 62.6961088181
+  },
+  {
+    "dateTime": "2016-08-08",
+    "value.value": 61.7963590622
+  },
+  {
+    "dateTime": "2016-08-09",
+    "value.value": 60.7167644501
+  },
+  {
+    "dateTime": "2016-08-10",
+    "value.value": 60.4558839798
+  },
+  {
+    "dateTime": "2016-08-11",
+    "value.value": 60.0337934494
+  },
+  {
+    "dateTime": "2016-08-12",
+    "value.value": 60.1708087921
+  },
+  {
+    "dateTime": "2016-08-13",
+    "value.value": 59.6291713715
+  },
+  {
+    "dateTime": "2016-08-14",
+    "value.value": 59.5246772766
+  },
+  {
+    "dateTime": "2016-08-15",
+    "value.value": 59.6069068909
+  },
+  {
+    "dateTime": "2016-08-16",
+    "value.value": 59.3213596344
+  },
+  {
+    "dateTime": "2016-08-17",
+    "value.value": 59.67923069
+  },
+  {
+    "dateTime": "2016-08-18",
+    "value.value": 60.2868871689
+  },
+  {
+    "dateTime": "2016-08-19",
+    "value.value": 60.0495862961
+  },
+  {
+    "dateTime": "2016-08-20",
+    "value.value": 59.8220033646
+  },
+  {
+    "dateTime": "2016-08-21",
+    "value.value": 60.0593919754
+  },
+  {
+    "dateTime": "2016-08-22",
+    "value.value": 59.9153652191
+  },
+  {
+    "dateTime": "2016-08-23",
+    "value.value": 60.1568822861
+  },
+  {
+    "dateTime": "2016-08-24",
+    "value.value": 60.3558511734
+  },
+  {
+    "dateTime": "2016-08-25",
+    "value.value": 60.4403839111
+  },
+  {
+    "dateTime": "2016-08-26",
+    "value.value": 61.2657356262
+  },
+  {
+    "dateTime": "2016-08-27",
+    "value.value": 61.0622520447
+  },
+  {
+    "dateTime": "2016-08-28",
+    "value.value": 60.0411434174
+  },
+  {
+    "dateTime": "2016-08-29",
+    "value.value": 59.3325414658
+  },
+  {
+    "dateTime": "2016-08-30",
+    "value.value": 58.9143505096
+  },
+  {
+    "dateTime": "2016-08-31",
+    "value.value": 58.9299325943
+  },
+  {
+    "dateTime": "2016-09-01",
+    "value.value": 61.2286748886
+  },
+  {
+    "dateTime": "2016-09-02",
+    "value.value": 60.6328077316
+  },
+  {
+    "dateTime": "2016-09-03",
+    "value.value": 60.4111633301
+  },
+  {
+    "dateTime": "2016-09-04",
+    "value.value": 60.1970701218
+  },
+  {
+    "dateTime": "2016-09-05",
+    "value.value": 59.8388338089
+  },
+  {
+    "dateTime": "2016-09-06",
+    "value.value": 59.4451065063
+  },
+  {
+    "dateTime": "2016-09-09",
+    "value.value": 59.8898153305
+  },
+  {
+    "dateTime": "2016-09-10",
+    "value.value": 60.3376283646
+  },
+  {
+    "dateTime": "2016-09-11",
+    "value.value": 59.8116140366
+  },
+  {
+    "dateTime": "2016-09-12",
+    "value.value": 59.3416366577
+  },
+  {
+    "dateTime": "2016-09-13",
+    "value.value": 59.6297445297
+  },
+  {
+    "dateTime": "2016-09-14",
+    "value.value": 60.052113533
+  },
+  {
+    "dateTime": "2016-09-15",
+    "value.value": 61.061750412
+  },
+  {
+    "dateTime": "2016-09-16",
+    "value.value": 61.0547389984
+  },
+  {
+    "dateTime": "2016-09-17",
+    "value.value": 61.859872818
+  },
+  {
+    "dateTime": "2016-09-18",
+    "value.value": 61.1236810684
+  },
+  {
+    "dateTime": "2016-09-19",
+    "value.value": 61.0546665192
+  },
+  {
+    "dateTime": "2016-09-20",
+    "value.value": 60.9776182175
+  },
+  {
+    "dateTime": "2016-09-28",
+    "value.value": 60.1967592239
+  },
+  {
+    "dateTime": "2016-09-29",
+    "value.value": 59.1196250916
+  },
+  {
+    "dateTime": "2016-09-30",
+    "value.value": 58.3958072662
+  },
+  {
+    "dateTime": "2016-10-01",
+    "value.value": 57.6066589355
+  },
+  {
+    "dateTime": "2016-10-02",
+    "value.value": 58.2245473862
+  },
+  {
+    "dateTime": "2016-10-03",
+    "value.value": 57.4480695724
+  },
+  {
+    "dateTime": "2016-10-04",
+    "value.value": 58.2899074554
+  },
+  {
+    "dateTime": "2016-10-05",
+    "value.value": 58.9788608551
+  },
+  {
+    "dateTime": "2016-10-06",
+    "value.value": 59.3551940918
+  },
+  {
+    "dateTime": "2016-10-07",
+    "value.value": 59.4754695892
+  },
+  {
+    "dateTime": "2016-10-08",
+    "value.value": 59.573425293
+  },
+  {
+    "dateTime": "2016-10-09",
+    "value.value": 59.6531496048
+  },
+  {
+    "dateTime": "2016-10-10",
+    "value.value": 58.9700450897
+  },
+  {
+    "dateTime": "2016-10-12",
+    "value.value": 57.6810159683
+  },
+  {
+    "dateTime": "2016-10-13",
+    "value.value": 56.3468732834
+  },
+  {
+    "dateTime": "2016-10-14",
+    "value.value": 56.8756895065
+  },
+  {
+    "dateTime": "2016-10-15",
+    "value.value": 58.2436676025
+  },
+  {
+    "dateTime": "2016-10-16",
+    "value.value": 57.3874282837
+  },
+  {
+    "dateTime": "2016-10-17",
+    "value.value": 56.3276968002
+  },
+  {
+    "dateTime": "2016-10-18",
+    "value.value": 55.0656309128
+  },
+  {
+    "dateTime": "2016-10-19",
+    "value.value": 55.0528593063
+  },
+  {
+    "dateTime": "2016-10-20",
+    "value.value": 56.2820539474
+  },
+  {
+    "dateTime": "2016-10-21",
+    "value.value": 56.8058843613
+  },
+  {
+    "dateTime": "2016-10-22",
+    "value.value": 57.2245864868
+  },
+  {
+    "dateTime": "2016-10-23",
+    "value.value": 58.4835596085
+  },
+  {
+    "dateTime": "2016-10-24",
+    "value.value": 59.16223526
+  },
+  {
+    "dateTime": "2016-10-25",
+    "value.value": 59.7042675018
+  },
+  {
+    "dateTime": "2016-10-26",
+    "value.value": 63.3875875473
+  },
+  {
+    "dateTime": "2016-10-27",
+    "value.value": 63.4621553421
+  },
+  {
+    "dateTime": "2016-10-28",
+    "value.value": 62.97215271
+  },
+  {
+    "dateTime": "2016-10-29",
+    "value.value": 62.6647768021
+  },
+  {
+    "dateTime": "2016-10-30",
+    "value.value": 60.4172458649
+  },
+  {
+    "dateTime": "2016-10-31",
+    "value.value": 59.6365537643
+  },
+  {
+    "dateTime": "2016-11-01",
+    "value.value": 58.3108863831
+  },
+  {
+    "dateTime": "2016-11-02",
+    "value.value": 60.5381946564
+  },
+  {
+    "dateTime": "2016-11-03",
+    "value.value": 59.8651943207
+  },
+  {
+    "dateTime": "2016-11-04",
+    "value.value": 60.3147354126
+  },
+  {
+    "dateTime": "2016-11-05",
+    "value.value": 62.0858249664
+  },
+  {
+    "dateTime": "2016-11-06",
+    "value.value": 60.1783618927
+  },
+  {
+    "dateTime": "2016-11-07",
+    "value.value": 62.287768364
+  },
+  {
+    "dateTime": "2016-11-08",
+    "value.value": 61.4141931534
+  },
+  {
+    "dateTime": "2016-11-09",
+    "value.value": 59.8912744522
+  },
+  {
+    "dateTime": "2016-11-10",
+    "value.value": 59.0168685913
+  },
+  {
+    "dateTime": "2016-11-11",
+    "value.value": 59.7918319702
+  },
+  {
+    "dateTime": "2016-11-12",
+    "value.value": 58.4490232468
+  },
+  {
+    "dateTime": "2016-11-13",
+    "value.value": 57.1648159027
+  },
+  {
+    "dateTime": "2016-11-14",
+    "value.value": 58.4697065353
+  },
+  {
+    "dateTime": "2016-11-15",
+    "value.value": 58.1989088058
+  },
+  {
+    "dateTime": "2016-11-16",
+    "value.value": 58.554058075
+  },
+  {
+    "dateTime": "2016-11-17",
+    "value.value": 58.2474794388
+  },
+  {
+    "dateTime": "2016-11-18",
+    "value.value": 59.8701353073
+  },
+  {
+    "dateTime": "2016-11-19",
+    "value.value": 61.762799263
+  },
+  {
+    "dateTime": "2016-11-20",
+    "value.value": 61.8840055466
+  },
+  {
+    "dateTime": "2016-11-21",
+    "value.value": 61.7747144699
+  },
+  {
+    "dateTime": "2016-11-22",
+    "value.value": 62.2540616989
+  },
+  {
+    "dateTime": "2016-11-23",
+    "value.value": 61.3234071732
+  },
+  {
+    "dateTime": "2016-11-24",
+    "value.value": 62.4287729263
+  },
+  {
+    "dateTime": "2016-11-25",
+    "value.value": 62.0077943802
+  },
+  {
+    "dateTime": "2016-11-26",
+    "value.value": 63.3344564438
+  },
+  {
+    "dateTime": "2016-11-27",
+    "value.value": 63.9764719009
+  },
+  {
+    "dateTime": "2016-11-28",
+    "value.value": 61.7781944275
+  },
+  {
+    "dateTime": "2016-11-29",
+    "value.value": 61.7045812607
+  },
+  {
+    "dateTime": "2016-11-30",
+    "value.value": 60.3714885712
+  },
+  {
+    "dateTime": "2016-12-01",
+    "value.value": 61.3928670883
+  },
+  {
+    "dateTime": "2016-12-02",
+    "value.value": 61.3816728592
+  },
+  {
+    "dateTime": "2016-12-03",
+    "value.value": 62.3707685471
+  },
+  {
+    "dateTime": "2016-12-04",
+    "value.value": 62.3147249222
+  },
+  {
+    "dateTime": "2016-12-05",
+    "value.value": 62.9304132462
+  },
+  {
+    "dateTime": "2016-12-06",
+    "value.value": 60.3762340546
+  },
+  {
+    "dateTime": "2016-12-07",
+    "value.value": 60.808763504
+  },
+  {
+    "dateTime": "2016-12-08",
+    "value.value": 59.9580106735
+  },
+  {
+    "dateTime": "2016-12-09",
+    "value.value": 59.4876880646
+  },
+  {
+    "dateTime": "2016-12-10",
+    "value.value": 59.2670078278
+  },
+  {
+    "dateTime": "2016-12-11",
+    "value.value": 58.1461639404
+  },
+  {
+    "dateTime": "2016-12-12",
+    "value.value": 59.0349636078
+  },
+  {
+    "dateTime": "2016-12-13",
+    "value.value": 59.3084907532
+  },
+  {
+    "dateTime": "2016-12-14",
+    "value.value": 60.242316246
+  },
+  {
+    "dateTime": "2016-12-15",
+    "value.value": 59.0770893097
+  },
+  {
+    "dateTime": "2016-12-16",
+    "value.value": 61.0178861618
+  },
+  {
+    "dateTime": "2016-12-17",
+    "value.value": 59.6491861343
+  },
+  {
+    "dateTime": "2016-12-18",
+    "value.value": 59.3886413574
+  },
+  {
+    "dateTime": "2016-12-19",
+    "value.value": 59.750418663
+  },
+  {
+    "dateTime": "2016-12-20",
+    "value.value": 62.6290245056
+  },
+  {
+    "dateTime": "2016-12-21",
+    "value.value": 60.7656593323
+  },
+  {
+    "dateTime": "2016-12-22",
+    "value.value": 59.9495229721
+  },
+  {
+    "dateTime": "2016-12-23",
+    "value.value": 60.4696416855
+  },
+  {
+    "dateTime": "2016-12-24",
+    "value.value": 59.4325304031
+  },
+  {
+    "dateTime": "2016-12-25",
+    "value.value": 58.57447052
+  },
+  {
+    "dateTime": "2016-12-26",
+    "value.value": 58.2590513229
+  },
+  {
+    "dateTime": "2016-12-27",
+    "value.value": 56.5440578461
+  },
+  {
+    "dateTime": "2016-12-28",
+    "value.value": 56.7706165314
+  },
+  {
+    "dateTime": "2016-12-29",
+    "value.value": 57.6234016418
+  },
+  {
+    "dateTime": "2016-12-30",
+    "value.value": 59.059261322
+  },
+  {
+    "dateTime": "2016-12-31",
+    "value.value": 57.3762693405
+  },
+  {
+    "dateTime": "2017-01-01",
+    "value.value": 59.7135000229
+  },
+  {
+    "dateTime": "2017-01-02",
+    "value.value": 57.2569704056
+  },
+  {
+    "dateTime": "2017-01-04",
+    "value.value": 58.0596036911
+  },
+  {
+    "dateTime": "2017-01-05",
+    "value.value": 56.9174203873
+  },
+  {
+    "dateTime": "2017-01-06",
+    "value.value": 56.7931718826
+  },
+  {
+    "dateTime": "2017-01-07",
+    "value.value": 58.7712440491
+  },
+  {
+    "dateTime": "2017-01-08",
+    "value.value": 60.1342926025
+  },
+  {
+    "dateTime": "2017-01-09",
+    "value.value": 58.2094841003
+  },
+  {
+    "dateTime": "2017-01-10",
+    "value.value": 58.4384679794
+  },
+  {
+    "dateTime": "2017-01-11",
+    "value.value": 56.5410938263
+  },
+  {
+    "dateTime": "2017-01-12",
+    "value.value": 55.5499954224
+  },
+  {
+    "dateTime": "2017-01-13",
+    "value.value": 54.4715433121
+  },
+  {
+    "dateTime": "2017-01-14",
+    "value.value": 56.1156749725
+  },
+  {
+    "dateTime": "2017-01-15",
+    "value.value": 55.2153491974
+  },
+  {
+    "dateTime": "2017-01-16",
+    "value.value": 54.2452478409
+  },
+  {
+    "dateTime": "2017-01-17",
+    "value.value": 54.2330589294
+  },
+  {
+    "dateTime": "2017-01-18",
+    "value.value": 54.2261619568
+  },
+  {
+    "dateTime": "2017-01-19",
+    "value.value": 53.1986665726
+  },
+  {
+    "dateTime": "2017-01-20",
+    "value.value": 54.8252134323
+  },
+  {
+    "dateTime": "2017-01-21",
+    "value.value": 56.5441665649
+  },
+  {
+    "dateTime": "2017-01-22",
+    "value.value": 57.2018184662
+  },
+  {
+    "dateTime": "2017-01-23",
+    "value.value": 56.3979387283
+  },
+  {
+    "dateTime": "2017-01-24",
+    "value.value": 57.0187864304
+  },
+  {
+    "dateTime": "2017-01-25",
+    "value.value": 57.365855217
+  },
+  {
+    "dateTime": "2017-01-26",
+    "value.value": 57.0515060425
+  },
+  {
+    "dateTime": "2017-01-27",
+    "value.value": 56.8710861206
+  },
+  {
+    "dateTime": "2017-01-28",
+    "value.value": 59.1613550186
+  },
+  {
+    "dateTime": "2017-01-29",
+    "value.value": 56.8852128983
+  },
+  {
+    "dateTime": "2017-01-30",
+    "value.value": 56.7577085495
+  },
+  {
+    "dateTime": "2017-01-31",
+    "value.value": 55.6242618561
+  },
+  {
+    "dateTime": "2017-02-01",
+    "value.value": 57.6157360077
+  },
+  {
+    "dateTime": "2017-02-02",
+    "value.value": 58.2216253281
+  },
+  {
+    "dateTime": "2017-02-03",
+    "value.value": 57.5437364578
+  },
+  {
+    "dateTime": "2017-02-04",
+    "value.value": 58.177192688
+  },
+  {
+    "dateTime": "2017-02-05",
+    "value.value": 58.0304479599
+  },
+  {
+    "dateTime": "2017-02-06",
+    "value.value": 58.4570856094
+  },
+  {
+    "dateTime": "2017-02-07",
+    "value.value": 57.1694612503
+  },
+  {
+    "dateTime": "2017-02-08",
+    "value.value": 56.4280614853
+  },
+  {
+    "dateTime": "2017-02-09",
+    "value.value": 58.0454711914
+  },
+  {
+    "dateTime": "2017-02-10",
+    "value.value": 56.9324789047
+  },
+  {
+    "dateTime": "2017-02-11",
+    "value.value": 56.2916107178
+  },
+  {
+    "dateTime": "2017-02-12",
+    "value.value": 55.9225950241
+  },
+  {
+    "dateTime": "2017-02-13",
+    "value.value": 54.6879606247
+  },
+  {
+    "dateTime": "2017-02-14",
+    "value.value": 56.5324296951
+  },
+  {
+    "dateTime": "2017-02-15",
+    "value.value": 55.0391082764
+  },
+  {
+    "dateTime": "2017-02-16",
+    "value.value": 55.2013950348
+  },
+  {
+    "dateTime": "2017-02-17",
+    "value.value": 54.2726888657
+  },
+  {
+    "dateTime": "2017-02-18",
+    "value.value": 55.6235389709
+  },
+  {
+    "dateTime": "2017-02-19",
+    "value.value": 56.1109323502
+  },
+  {
+    "dateTime": "2017-02-20",
+    "value.value": 55.2700309753
+  },
+  {
+    "dateTime": "2017-02-21",
+    "value.value": 57.0315589905
+  },
+  {
+    "dateTime": "2017-02-22",
+    "value.value": 57.4252605438
+  },
+  {
+    "dateTime": "2017-02-23",
+    "value.value": 59.8445749283
+  },
+  {
+    "dateTime": "2017-02-24",
+    "value.value": 60.5633220673
+  },
+  {
+    "dateTime": "2017-02-25",
+    "value.value": 63.027970314
+  },
+  {
+    "dateTime": "2017-02-26",
+    "value.value": 65.9467563629
+  },
+  {
+    "dateTime": "2017-02-27",
+    "value.value": 67.8737335205
+  },
+  {
+    "dateTime": "2017-02-28",
+    "value.value": 66.62114048
+  },
+  {
+    "dateTime": "2017-03-01",
+    "value.value": 66.5623664856
+  },
+  {
+    "dateTime": "2017-03-02",
+    "value.value": 68.3553314209
+  },
+  {
+    "dateTime": "2017-03-03",
+    "value.value": 70.8183794022
+  },
+  {
+    "dateTime": "2017-03-04",
+    "value.value": 72.8211174011
+  },
+  {
+    "dateTime": "2017-03-05",
+    "value.value": 74.217912674
+  },
+  {
+    "dateTime": "2017-03-21",
+    "value.value": 71.4790277481
+  },
+  {
+    "dateTime": "2017-03-22",
+    "value.value": 69.793627739
+  },
+  {
+    "dateTime": "2017-03-23",
+    "value.value": 70.2643222809
+  },
+  {
+    "dateTime": "2017-03-24",
+    "value.value": 68.3394041061
+  },
+  {
+    "dateTime": "2017-03-25",
+    "value.value": 70.0176639557
+  },
+  {
+    "dateTime": "2017-03-26",
+    "value.value": 68.7482051849
+  },
+  {
+    "dateTime": "2017-03-27",
+    "value.value": 66.5574817657
+  },
+  {
+    "dateTime": "2017-03-28",
+    "value.value": 67.4719018936
+  },
+  {
+    "dateTime": "2017-03-29",
+    "value.value": 65.9286184311
+  },
+  {
+    "dateTime": "2017-03-30",
+    "value.value": 64.5353469849
+  },
+  {
+    "dateTime": "2017-03-31",
+    "value.value": 64.762922287
+  },
+  {
+    "dateTime": "2017-04-01",
+    "value.value": 66.1040630341
+  },
+  {
+    "dateTime": "2017-04-02",
+    "value.value": 68.4373559952
+  },
+  {
+    "dateTime": "2017-04-03",
+    "value.value": 68.301076889
+  },
+  {
+    "dateTime": "2017-04-04",
+    "value.value": 66.1859264374
+  },
+  {
+    "dateTime": "2017-04-05",
+    "value.value": 63.6793012619
+  },
+  {
+    "dateTime": "2017-04-06",
+    "value.value": 61.9649772644
+  },
+  {
+    "dateTime": "2017-04-07",
+    "value.value": 62.8116054535
+  },
+  {
+    "dateTime": "2017-04-08",
+    "value.value": 65.3348674774
+  },
+  {
+    "dateTime": "2017-04-09",
+    "value.value": 64.605463028
+  },
+  {
+    "dateTime": "2017-04-10",
+    "value.value": 64.8083591461
+  },
+  {
+    "dateTime": "2017-04-11",
+    "value.value": 67.2247533798
+  },
+  {
+    "dateTime": "2017-04-12",
+    "value.value": 65.7493162155
+  },
+  {
+    "dateTime": "2017-04-13",
+    "value.value": 64.9373979568
+  },
+  {
+    "dateTime": "2017-04-14",
+    "value.value": 64.476817131
+  },
+  {
+    "dateTime": "2017-04-15",
+    "value.value": 62.6779050827
+  },
+  {
+    "dateTime": "2017-04-16",
+    "value.value": 64.200138092
+  },
+  {
+    "dateTime": "2017-04-17",
+    "value.value": 66.0984573364
+  },
+  {
+    "dateTime": "2017-04-18",
+    "value.value": 64.1003341675
+  },
+  {
+    "dateTime": "2017-04-19",
+    "value.value": 61.5254526138
+  },
+  {
+    "dateTime": "2017-04-20",
+    "value.value": 62.1593885422
+  },
+  {
+    "dateTime": "2017-04-21",
+    "value.value": 61.1786317825
+  },
+  {
+    "dateTime": "2017-04-22",
+    "value.value": 63.0909729004
+  },
+  {
+    "dateTime": "2017-04-23",
+    "value.value": 64.0852193832
+  },
+  {
+    "dateTime": "2017-04-24",
+    "value.value": 62.8981122971
+  },
+  {
+    "dateTime": "2017-04-25",
+    "value.value": 63.8333320618
+  },
+  {
+    "dateTime": "2017-04-26",
+    "value.value": 63.3283662796
+  },
+  {
+    "dateTime": "2017-04-27",
+    "value.value": 65.0889453888
+  },
+  {
+    "dateTime": "2017-04-28",
+    "value.value": 64.565320015
+  },
+  {
+    "dateTime": "2017-04-29",
+    "value.value": 63.2417211533
+  },
+  {
+    "dateTime": "2017-04-30",
+    "value.value": 63.5020685196
+  },
+  {
+    "dateTime": "2017-05-01",
+    "value.value": 62.1186943054
+  },
+  {
+    "dateTime": "2017-05-02",
+    "value.value": 64.4397563934
+  },
+  {
+    "dateTime": "2017-05-03",
+    "value.value": 63.1697301865
+  },
+  {
+    "dateTime": "2017-05-04",
+    "value.value": 62.4384431839
+  },
+  {
+    "dateTime": "2017-05-05",
+    "value.value": 62.0173635483
+  },
+  {
+    "dateTime": "2017-05-06",
+    "value.value": 62.4393014908
+  },
+  {
+    "dateTime": "2017-05-07",
+    "value.value": 61.5067815781
+  },
+  {
+    "dateTime": "2017-05-08",
+    "value.value": 62.5030574799
+  },
+  {
+    "dateTime": "2017-05-09",
+    "value.value": 63.5877962112
+  },
+  {
+    "dateTime": "2017-05-10",
+    "value.value": 63.7013206482
+  },
+  {
+    "dateTime": "2017-05-11",
+    "value.value": 64.2777643204
+  },
+  {
+    "dateTime": "2017-05-12",
+    "value.value": 62.5653810501
+  },
+  {
+    "dateTime": "2017-05-13",
+    "value.value": 62.6015310287
+  },
+  {
+    "dateTime": "2017-05-14",
+    "value.value": 64.6666498184
+  },
+  {
+    "dateTime": "2017-05-15",
+    "value.value": 63.5048103333
+  }
+]
