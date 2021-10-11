@@ -4,12 +4,12 @@ ___
 
 ## Goals
 1. Port Fitbit Data to Apple Health
-   - [ ] Weight
-   - [ ] Sleep
-   - [ ] Resting HR
-   - [ ] Demographic VO2 Max
+   - [x] Weight
+   - [x] Sleep
+   - [x] Resting HR
+   - [x] Demographic VO2 Max
    - [ ] Steps
-   - [ ] Workouts
+   - [x] Workouts (Already mostly done using Strava)
    - [ ] Running + Walking Distance
 2. Create Unified Database of all Health Data
 3. Make Pretty Graphs
@@ -299,6 +299,24 @@ ___
   "hasGps" : false,
   "shouldFetchDetails" : false
 }
+```
+
+### Types of Workouts in Fitbit Export & Equivalent Apple Health Type
+```text
+FITBIT                      APPLE HEALTH
+------                      ------------
+'Walk'              -->     'Walking'
+'Workout'           -->     'Other' ## Not sure if anything better than this...
+'Run'               -->     'Running' 
+'Sport'             -->     'Other' ## Not sure if anything better than this...
+'Aerobic Workout'   -->     'Mixed Cardio'
+'Elliptical'        -->     'Elliptical'
+'Outdoor Bike'      -->     'Cycling'
+'Bike'              -->     'Cycling'
+'Weights'           -->     'Traditional Strength Training'
+'Hike'              -->     'Hiking'
+'Interval Workout'  -->     'High Intensity Interval Training'
+'Treadmill'         -->     'Walking'
 ```
 
 ```json5
