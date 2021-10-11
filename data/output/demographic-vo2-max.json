@@ -1,0 +1,1766 @@
+[
+  {
+    "dateTime": "2017-01-12",
+    "value.filteredDemographicVO2Max": 45.97793
+  },
+  {
+    "dateTime": "2017-01-13",
+    "value.filteredDemographicVO2Max": 46.13758
+  },
+  {
+    "dateTime": "2017-01-14",
+    "value.filteredDemographicVO2Max": 45.95981
+  },
+  {
+    "dateTime": "2017-01-15",
+    "value.filteredDemographicVO2Max": 45.93908
+  },
+  {
+    "dateTime": "2017-01-16",
+    "value.filteredDemographicVO2Max": 45.98854
+  },
+  {
+    "dateTime": "2017-01-17",
+    "value.filteredDemographicVO2Max": 46.02284
+  },
+  {
+    "dateTime": "2017-01-18",
+    "value.filteredDemographicVO2Max": 46.04414
+  },
+  {
+    "dateTime": "2017-01-19",
+    "value.filteredDemographicVO2Max": 46.10799
+  },
+  {
+    "dateTime": "2017-01-20",
+    "value.filteredDemographicVO2Max": 46.0877
+  },
+  {
+    "dateTime": "2017-01-21",
+    "value.filteredDemographicVO2Max": 45.99989
+  },
+  {
+    "dateTime": "2017-01-22",
+    "value.filteredDemographicVO2Max": 45.90097
+  },
+  {
+    "dateTime": "2017-01-23",
+    "value.filteredDemographicVO2Max": 45.84926
+  },
+  {
+    "dateTime": "2017-01-24",
+    "value.filteredDemographicVO2Max": 45.78179
+  },
+  {
+    "dateTime": "2017-01-25",
+    "value.filteredDemographicVO2Max": 45.71112
+  },
+  {
+    "dateTime": "2017-01-26",
+    "value.filteredDemographicVO2Max": 45.66192
+  },
+  {
+    "dateTime": "2017-01-27",
+    "value.filteredDemographicVO2Max": 45.62597
+  },
+  {
+    "dateTime": "2017-01-28",
+    "value.filteredDemographicVO2Max": 45.5117
+  },
+  {
+    "dateTime": "2017-01-29",
+    "value.filteredDemographicVO2Max": 45.4943
+  },
+  {
+    "dateTime": "2017-01-30",
+    "value.filteredDemographicVO2Max": 45.48369
+  },
+  {
+    "dateTime": "2017-01-31",
+    "value.filteredDemographicVO2Max": 45.51494
+  },
+  {
+    "dateTime": "2017-02-01",
+    "value.filteredDemographicVO2Max": 45.51766
+  },
+  {
+    "dateTime": "2017-02-02",
+    "value.filteredDemographicVO2Max": 45.49824
+  },
+  {
+    "dateTime": "2017-02-03",
+    "value.filteredDemographicVO2Max": 45.50556
+  },
+  {
+    "dateTime": "2017-02-04",
+    "value.filteredDemographicVO2Max": 45.51522
+  },
+  {
+    "dateTime": "2017-02-05",
+    "value.filteredDemographicVO2Max": 45.5428
+  },
+  {
+    "dateTime": "2017-02-06",
+    "value.filteredDemographicVO2Max": 45.50826
+  },
+  {
+    "dateTime": "2017-02-07",
+    "value.filteredDemographicVO2Max": 45.52396
+  },
+  {
+    "dateTime": "2017-02-08",
+    "value.filteredDemographicVO2Max": 45.56425
+  },
+  {
+    "dateTime": "2017-02-09",
+    "value.filteredDemographicVO2Max": 45.54186
+  },
+  {
+    "dateTime": "2017-02-10",
+    "value.filteredDemographicVO2Max": 45.56194
+  },
+  {
+    "dateTime": "2017-02-11",
+    "value.filteredDemographicVO2Max": 45.60247
+  },
+  {
+    "dateTime": "2017-02-12",
+    "value.filteredDemographicVO2Max": 45.65126
+  },
+  {
+    "dateTime": "2017-02-13",
+    "value.filteredDemographicVO2Max": 45.7382
+  },
+  {
+    "dateTime": "2017-02-14",
+    "value.filteredDemographicVO2Max": 45.74878
+  },
+  {
+    "dateTime": "2017-02-15",
+    "value.filteredDemographicVO2Max": 45.81137
+  },
+  {
+    "dateTime": "2017-02-16",
+    "value.filteredDemographicVO2Max": 45.86059
+  },
+  {
+    "dateTime": "2017-02-17",
+    "value.filteredDemographicVO2Max": 45.93699
+  },
+  {
+    "dateTime": "2017-02-18",
+    "value.filteredDemographicVO2Max": 45.95593
+  },
+  {
+    "dateTime": "2017-02-19",
+    "value.filteredDemographicVO2Max": 45.95519
+  },
+  {
+    "dateTime": "2017-02-20",
+    "value.filteredDemographicVO2Max": 45.98454
+  },
+  {
+    "dateTime": "2017-02-21",
+    "value.filteredDemographicVO2Max": 45.94749
+  },
+  {
+    "dateTime": "2017-02-22",
+    "value.filteredDemographicVO2Max": 45.90087
+  },
+  {
+    "dateTime": "2017-02-23",
+    "value.filteredDemographicVO2Max": 45.77357
+  },
+  {
+    "dateTime": "2017-02-24",
+    "value.filteredDemographicVO2Max": 45.63603
+  },
+  {
+    "dateTime": "2017-02-25",
+    "value.filteredDemographicVO2Max": 45.4272
+  },
+  {
+    "dateTime": "2017-02-26",
+    "value.filteredDemographicVO2Max": 45.13949
+  },
+  {
+    "dateTime": "2017-02-27",
+    "value.filteredDemographicVO2Max": 44.81785
+  },
+  {
+    "dateTime": "2017-02-28",
+    "value.filteredDemographicVO2Max": 44.51694
+  },
+  {
+    "dateTime": "2017-03-01",
+    "value.filteredDemographicVO2Max": 44.25451
+  },
+  {
+    "dateTime": "2017-03-02",
+    "value.filteredDemographicVO2Max": 43.96092
+  },
+  {
+    "dateTime": "2017-03-03",
+    "value.filteredDemographicVO2Max": 43.61642
+  },
+  {
+    "dateTime": "2017-03-04",
+    "value.filteredDemographicVO2Max": 43.24333
+  },
+  {
+    "dateTime": "2017-03-05",
+    "value.filteredDemographicVO2Max": 42.86638
+  },
+  {
+    "dateTime": "2017-03-21",
+    "value.filteredDemographicVO2Max": 42.55253
+  },
+  {
+    "dateTime": "2017-03-22",
+    "value.filteredDemographicVO2Max": 42.57321
+  },
+  {
+    "dateTime": "2017-03-23",
+    "value.filteredDemographicVO2Max": 42.56256
+  },
+  {
+    "dateTime": "2017-03-24",
+    "value.filteredDemographicVO2Max": 42.62879
+  },
+  {
+    "dateTime": "2017-03-25",
+    "value.filteredDemographicVO2Max": 42.59747
+  },
+  {
+    "dateTime": "2017-03-26",
+    "value.filteredDemographicVO2Max": 42.62286
+  },
+  {
+    "dateTime": "2017-03-27",
+    "value.filteredDemographicVO2Max": 42.73782
+  },
+  {
+    "dateTime": "2017-03-28",
+    "value.filteredDemographicVO2Max": 42.7895
+  },
+  {
+    "dateTime": "2017-03-29",
+    "value.filteredDemographicVO2Max": 42.89473
+  },
+  {
+    "dateTime": "2017-03-30",
+    "value.filteredDemographicVO2Max": 43.03844
+  },
+  {
+    "dateTime": "2017-03-31",
+    "value.filteredDemographicVO2Max": 43.15232
+  },
+  {
+    "dateTime": "2017-04-01",
+    "value.filteredDemographicVO2Max": 43.19917
+  },
+  {
+    "dateTime": "2017-04-02",
+    "value.filteredDemographicVO2Max": 43.15186
+  },
+  {
+    "dateTime": "2017-04-03",
+    "value.filteredDemographicVO2Max": 43.11592
+  },
+  {
+    "dateTime": "2017-04-04",
+    "value.filteredDemographicVO2Max": 43.16305
+  },
+  {
+    "dateTime": "2017-04-05",
+    "value.filteredDemographicVO2Max": 43.21974
+  },
+  {
+    "dateTime": "2017-04-06",
+    "value.filteredDemographicVO2Max": 43.33105
+  },
+  {
+    "dateTime": "2017-04-07",
+    "value.filteredDemographicVO2Max": 43.46052
+  },
+  {
+    "dateTime": "2017-04-08",
+    "value.filteredDemographicVO2Max": 43.482
+  },
+  {
+    "dateTime": "2017-04-09",
+    "value.filteredDemographicVO2Max": 43.46213
+  },
+  {
+    "dateTime": "2017-04-10",
+    "value.filteredDemographicVO2Max": 43.43746
+  },
+  {
+    "dateTime": "2017-04-11",
+    "value.filteredDemographicVO2Max": 43.32961
+  },
+  {
+    "dateTime": "2017-04-12",
+    "value.filteredDemographicVO2Max": 43.25744
+  },
+  {
+    "dateTime": "2017-04-13",
+    "value.filteredDemographicVO2Max": 43.22275
+  },
+  {
+    "dateTime": "2017-04-14",
+    "value.filteredDemographicVO2Max": 43.20856
+  },
+  {
+    "dateTime": "2017-04-15",
+    "value.filteredDemographicVO2Max": 43.25961
+  },
+  {
+    "dateTime": "2017-04-16",
+    "value.filteredDemographicVO2Max": 43.25073
+  },
+  {
+    "dateTime": "2017-04-17",
+    "value.filteredDemographicVO2Max": 43.17593
+  },
+  {
+    "dateTime": "2017-04-18",
+    "value.filteredDemographicVO2Max": 43.1807
+  },
+  {
+    "dateTime": "2017-04-19",
+    "value.filteredDemographicVO2Max": 43.27574
+  },
+  {
+    "dateTime": "2017-04-20",
+    "value.filteredDemographicVO2Max": 43.3369
+  },
+  {
+    "dateTime": "2017-04-21",
+    "value.filteredDemographicVO2Max": 43.42525
+  },
+  {
+    "dateTime": "2017-04-22",
+    "value.filteredDemographicVO2Max": 43.43544
+  },
+  {
+    "dateTime": "2017-04-23",
+    "value.filteredDemographicVO2Max": 43.40933
+  },
+  {
+    "dateTime": "2017-04-24",
+    "value.filteredDemographicVO2Max": 43.42825
+  },
+  {
+    "dateTime": "2017-04-25",
+    "value.filteredDemographicVO2Max": 43.4119
+  },
+  {
+    "dateTime": "2017-04-26",
+    "value.filteredDemographicVO2Max": 43.41534
+  },
+  {
+    "dateTime": "2017-04-27",
+    "value.filteredDemographicVO2Max": 43.35627
+  },
+  {
+    "dateTime": "2017-04-28",
+    "value.filteredDemographicVO2Max": 43.32281
+  },
+  {
+    "dateTime": "2017-04-29",
+    "value.filteredDemographicVO2Max": 43.34009
+  },
+  {
+    "dateTime": "2017-04-30",
+    "value.filteredDemographicVO2Max": 43.34609
+  },
+  {
+    "dateTime": "2017-05-01",
+    "value.filteredDemographicVO2Max": 43.45861
+  },
+  {
+    "dateTime": "2017-05-02",
+    "value.filteredDemographicVO2Max": 43.47444
+  },
+  {
+    "dateTime": "2017-05-03",
+    "value.filteredDemographicVO2Max": 43.53381
+  },
+  {
+    "dateTime": "2017-05-04",
+    "value.filteredDemographicVO2Max": 43.67081
+  },
+  {
+    "dateTime": "2017-05-05",
+    "value.filteredDemographicVO2Max": 43.75947
+  },
+  {
+    "dateTime": "2017-05-06",
+    "value.filteredDemographicVO2Max": 43.82226
+  },
+  {
+    "dateTime": "2017-05-07",
+    "value.filteredDemographicVO2Max": 43.91091
+  },
+  {
+    "dateTime": "2017-05-08",
+    "value.filteredDemographicVO2Max": 43.92155
+  },
+  {
+    "dateTime": "2017-05-09",
+    "value.filteredDemographicVO2Max": 43.90382
+  },
+  {
+    "dateTime": "2017-05-10",
+    "value.filteredDemographicVO2Max": 43.88417
+  },
+  {
+    "dateTime": "2017-05-11",
+    "value.filteredDemographicVO2Max": 43.8156
+  },
+  {
+    "dateTime": "2017-05-12",
+    "value.filteredDemographicVO2Max": 43.816
+  },
+  {
+    "dateTime": "2017-05-13",
+    "value.filteredDemographicVO2Max": 43.81507
+  },
+  {
+    "dateTime": "2017-05-14",
+    "value.filteredDemographicVO2Max": 43.74108
+  },
+  {
+    "dateTime": "2017-05-15",
+    "value.filteredDemographicVO2Max": 43.71722
+  },
+  {
+    "dateTime": "2017-05-16",
+    "value.filteredDemographicVO2Max": 43.69097
+  },
+  {
+    "dateTime": "2017-05-17",
+    "value.filteredDemographicVO2Max": 43.71919
+  },
+  {
+    "dateTime": "2017-05-18",
+    "value.filteredDemographicVO2Max": 43.71921
+  },
+  {
+    "dateTime": "2017-05-19",
+    "value.filteredDemographicVO2Max": 43.72305
+  },
+  {
+    "dateTime": "2017-05-20",
+    "value.filteredDemographicVO2Max": 43.70655
+  },
+  {
+    "dateTime": "2017-05-21",
+    "value.filteredDemographicVO2Max": 43.66216
+  },
+  {
+    "dateTime": "2017-05-22",
+    "value.filteredDemographicVO2Max": 43.62968
+  },
+  {
+    "dateTime": "2017-05-23",
+    "value.filteredDemographicVO2Max": 43.60431
+  },
+  {
+    "dateTime": "2017-05-24",
+    "value.filteredDemographicVO2Max": 43.61953
+  },
+  {
+    "dateTime": "2017-05-25",
+    "value.filteredDemographicVO2Max": 43.67264
+  },
+  {
+    "dateTime": "2017-05-26",
+    "value.filteredDemographicVO2Max": 43.67942
+  },
+  {
+    "dateTime": "2017-05-27",
+    "value.filteredDemographicVO2Max": 43.67632
+  },
+  {
+    "dateTime": "2017-05-28",
+    "value.filteredDemographicVO2Max": 43.70603
+  },
+  {
+    "dateTime": "2017-05-29",
+    "value.filteredDemographicVO2Max": 43.63518
+  },
+  {
+    "dateTime": "2017-05-30",
+    "value.filteredDemographicVO2Max": 43.56153
+  },
+  {
+    "dateTime": "2017-05-31",
+    "value.filteredDemographicVO2Max": 43.50429
+  },
+  {
+    "dateTime": "2017-06-01",
+    "value.filteredDemographicVO2Max": 43.44232
+  },
+  {
+    "dateTime": "2017-06-02",
+    "value.filteredDemographicVO2Max": 43.46275
+  },
+  {
+    "dateTime": "2017-06-03",
+    "value.filteredDemographicVO2Max": 43.38209
+  },
+  {
+    "dateTime": "2017-06-04",
+    "value.filteredDemographicVO2Max": 43.38701
+  },
+  {
+    "dateTime": "2017-06-05",
+    "value.filteredDemographicVO2Max": 43.44255
+  },
+  {
+    "dateTime": "2017-06-06",
+    "value.filteredDemographicVO2Max": 43.47789
+  },
+  {
+    "dateTime": "2017-06-07",
+    "value.filteredDemographicVO2Max": 43.51772
+  },
+  {
+    "dateTime": "2017-06-08",
+    "value.filteredDemographicVO2Max": 43.55791
+  },
+  {
+    "dateTime": "2017-06-09",
+    "value.filteredDemographicVO2Max": 43.54148
+  },
+  {
+    "dateTime": "2017-06-10",
+    "value.filteredDemographicVO2Max": 43.50847
+  },
+  {
+    "dateTime": "2017-06-11",
+    "value.filteredDemographicVO2Max": 43.4026
+  },
+  {
+    "dateTime": "2017-06-12",
+    "value.filteredDemographicVO2Max": 43.36841
+  },
+  {
+    "dateTime": "2017-06-13",
+    "value.filteredDemographicVO2Max": 43.40907
+  },
+  {
+    "dateTime": "2017-06-14",
+    "value.filteredDemographicVO2Max": 43.48569
+  },
+  {
+    "dateTime": "2017-06-15",
+    "value.filteredDemographicVO2Max": 43.64158
+  },
+  {
+    "dateTime": "2017-06-16",
+    "value.filteredDemographicVO2Max": 43.70263
+  },
+  {
+    "dateTime": "2017-06-17",
+    "value.filteredDemographicVO2Max": 43.69752
+  },
+  {
+    "dateTime": "2017-06-18",
+    "value.filteredDemographicVO2Max": 43.70462
+  },
+  {
+    "dateTime": "2017-06-19",
+    "value.filteredDemographicVO2Max": 43.67417
+  },
+  {
+    "dateTime": "2017-06-20",
+    "value.filteredDemographicVO2Max": 43.71206
+  },
+  {
+    "dateTime": "2017-06-21",
+    "value.filteredDemographicVO2Max": 43.76051
+  },
+  {
+    "dateTime": "2017-06-22",
+    "value.filteredDemographicVO2Max": 43.75433
+  },
+  {
+    "dateTime": "2017-06-23",
+    "value.filteredDemographicVO2Max": 43.70535
+  },
+  {
+    "dateTime": "2017-06-24",
+    "value.filteredDemographicVO2Max": 43.63863
+  },
+  {
+    "dateTime": "2017-06-25",
+    "value.filteredDemographicVO2Max": 43.57939
+  },
+  {
+    "dateTime": "2017-06-26",
+    "value.filteredDemographicVO2Max": 43.52319
+  },
+  {
+    "dateTime": "2017-06-27",
+    "value.filteredDemographicVO2Max": 43.46981
+  },
+  {
+    "dateTime": "2017-06-28",
+    "value.filteredDemographicVO2Max": 43.43538
+  },
+  {
+    "dateTime": "2017-06-29",
+    "value.filteredDemographicVO2Max": 43.49929
+  },
+  {
+    "dateTime": "2017-06-30",
+    "value.filteredDemographicVO2Max": 43.55455
+  },
+  {
+    "dateTime": "2017-07-01",
+    "value.filteredDemographicVO2Max": 43.63047
+  },
+  {
+    "dateTime": "2017-07-02",
+    "value.filteredDemographicVO2Max": 43.64052
+  },
+  {
+    "dateTime": "2017-07-03",
+    "value.filteredDemographicVO2Max": 43.56315
+  },
+  {
+    "dateTime": "2017-07-04",
+    "value.filteredDemographicVO2Max": 43.55049
+  },
+  {
+    "dateTime": "2017-07-05",
+    "value.filteredDemographicVO2Max": 43.64867
+  },
+  {
+    "dateTime": "2017-07-06",
+    "value.filteredDemographicVO2Max": 43.67833
+  },
+  {
+    "dateTime": "2017-07-07",
+    "value.filteredDemographicVO2Max": 43.69896
+  },
+  {
+    "dateTime": "2017-07-08",
+    "value.filteredDemographicVO2Max": 43.63883
+  },
+  {
+    "dateTime": "2017-07-09",
+    "value.filteredDemographicVO2Max": 43.66218
+  },
+  {
+    "dateTime": "2017-07-10",
+    "value.filteredDemographicVO2Max": 43.68897
+  },
+  {
+    "dateTime": "2017-07-11",
+    "value.filteredDemographicVO2Max": 43.69684
+  },
+  {
+    "dateTime": "2017-07-12",
+    "value.filteredDemographicVO2Max": 43.70298
+  },
+  {
+    "dateTime": "2017-07-13",
+    "value.filteredDemographicVO2Max": 43.68903
+  },
+  {
+    "dateTime": "2017-07-14",
+    "value.filteredDemographicVO2Max": 43.75483
+  },
+  {
+    "dateTime": "2017-07-15",
+    "value.filteredDemographicVO2Max": 43.75163
+  },
+  {
+    "dateTime": "2017-07-16",
+    "value.filteredDemographicVO2Max": 43.77112
+  },
+  {
+    "dateTime": "2017-07-17",
+    "value.filteredDemographicVO2Max": 43.84878
+  },
+  {
+    "dateTime": "2017-07-18",
+    "value.filteredDemographicVO2Max": 43.88702
+  },
+  {
+    "dateTime": "2017-07-19",
+    "value.filteredDemographicVO2Max": 43.96433
+  },
+  {
+    "dateTime": "2017-07-20",
+    "value.filteredDemographicVO2Max": 44.12595
+  },
+  {
+    "dateTime": "2017-07-21",
+    "value.filteredDemographicVO2Max": 44.32793
+  },
+  {
+    "dateTime": "2017-07-22",
+    "value.filteredDemographicVO2Max": 44.48488
+  },
+  {
+    "dateTime": "2017-07-23",
+    "value.filteredDemographicVO2Max": 44.61943
+  },
+  {
+    "dateTime": "2017-07-24",
+    "value.filteredDemographicVO2Max": 44.82957
+  },
+  {
+    "dateTime": "2017-07-25",
+    "value.filteredDemographicVO2Max": 45.00355
+  },
+  {
+    "dateTime": "2017-07-26",
+    "value.filteredDemographicVO2Max": 45.17092
+  },
+  {
+    "dateTime": "2017-07-27",
+    "value.filteredDemographicVO2Max": 45.27548
+  },
+  {
+    "dateTime": "2017-07-28",
+    "value.filteredDemographicVO2Max": 45.32343
+  },
+  {
+    "dateTime": "2017-07-29",
+    "value.filteredDemographicVO2Max": 45.28151
+  },
+  {
+    "dateTime": "2017-07-30",
+    "value.filteredDemographicVO2Max": 45.2855
+  },
+  {
+    "dateTime": "2017-07-31",
+    "value.filteredDemographicVO2Max": 45.23734
+  },
+  {
+    "dateTime": "2017-08-01",
+    "value.filteredDemographicVO2Max": 45.17337
+  },
+  {
+    "dateTime": "2017-08-02",
+    "value.filteredDemographicVO2Max": 45.1996
+  },
+  {
+    "dateTime": "2017-08-03",
+    "value.filteredDemographicVO2Max": 45.26453
+  },
+  {
+    "dateTime": "2017-08-04",
+    "value.filteredDemographicVO2Max": 45.24637
+  },
+  {
+    "dateTime": "2017-08-05",
+    "value.filteredDemographicVO2Max": 45.24649
+  },
+  {
+    "dateTime": "2017-08-06",
+    "value.filteredDemographicVO2Max": 45.22823
+  },
+  {
+    "dateTime": "2017-08-07",
+    "value.filteredDemographicVO2Max": 45.25502
+  },
+  {
+    "dateTime": "2017-08-08",
+    "value.filteredDemographicVO2Max": 45.21522
+  },
+  {
+    "dateTime": "2017-08-09",
+    "value.filteredDemographicVO2Max": 45.18331
+  },
+  {
+    "dateTime": "2017-08-10",
+    "value.filteredDemographicVO2Max": 45.24468
+  },
+  {
+    "dateTime": "2017-08-11",
+    "value.filteredDemographicVO2Max": 45.35166
+  },
+  {
+    "dateTime": "2017-08-12",
+    "value.filteredDemographicVO2Max": 45.44223
+  },
+  {
+    "dateTime": "2017-08-13",
+    "value.filteredDemographicVO2Max": 45.53966
+  },
+  {
+    "dateTime": "2017-08-14",
+    "value.filteredDemographicVO2Max": 45.61847
+  },
+  {
+    "dateTime": "2017-08-15",
+    "value.filteredDemographicVO2Max": 45.82234
+  },
+  {
+    "dateTime": "2017-08-16",
+    "value.filteredDemographicVO2Max": 45.95477
+  },
+  {
+    "dateTime": "2017-08-17",
+    "value.filteredDemographicVO2Max": 45.966
+  },
+  {
+    "dateTime": "2017-08-18",
+    "value.filteredDemographicVO2Max": 46.0723
+  },
+  {
+    "dateTime": "2017-08-19",
+    "value.filteredDemographicVO2Max": 46.09933
+  },
+  {
+    "dateTime": "2017-08-20",
+    "value.filteredDemographicVO2Max": 46.03066
+  },
+  {
+    "dateTime": "2017-08-21",
+    "value.filteredDemographicVO2Max": 45.78286
+  },
+  {
+    "dateTime": "2017-08-22",
+    "value.filteredDemographicVO2Max": 45.37916
+  },
+  {
+    "dateTime": "2017-08-23",
+    "value.filteredDemographicVO2Max": 44.93693
+  },
+  {
+    "dateTime": "2017-08-24",
+    "value.filteredDemographicVO2Max": 44.46226
+  },
+  {
+    "dateTime": "2017-08-25",
+    "value.filteredDemographicVO2Max": 44.03033
+  },
+  {
+    "dateTime": "2017-08-26",
+    "value.filteredDemographicVO2Max": 43.68534
+  },
+  {
+    "dateTime": "2017-08-27",
+    "value.filteredDemographicVO2Max": 43.38881
+  },
+  {
+    "dateTime": "2017-08-28",
+    "value.filteredDemographicVO2Max": 43.23539
+  },
+  {
+    "dateTime": "2017-08-29",
+    "value.filteredDemographicVO2Max": 43.15587
+  },
+  {
+    "dateTime": "2017-08-30",
+    "value.filteredDemographicVO2Max": 43.08597
+  },
+  {
+    "dateTime": "2017-08-31",
+    "value.filteredDemographicVO2Max": 43.02454
+  },
+  {
+    "dateTime": "2017-09-01",
+    "value.filteredDemographicVO2Max": 42.97054
+  },
+  {
+    "dateTime": "2017-09-02",
+    "value.filteredDemographicVO2Max": 42.88402
+  },
+  {
+    "dateTime": "2017-09-03",
+    "value.filteredDemographicVO2Max": 42.87813
+  },
+  {
+    "dateTime": "2017-09-04",
+    "value.filteredDemographicVO2Max": 42.9646
+  },
+  {
+    "dateTime": "2017-09-05",
+    "value.filteredDemographicVO2Max": 43.20488
+  },
+  {
+    "dateTime": "2017-09-06",
+    "value.filteredDemographicVO2Max": 43.36997
+  },
+  {
+    "dateTime": "2017-09-07",
+    "value.filteredDemographicVO2Max": 43.51508
+  },
+  {
+    "dateTime": "2017-09-08",
+    "value.filteredDemographicVO2Max": 43.70062
+  },
+  {
+    "dateTime": "2017-09-09",
+    "value.filteredDemographicVO2Max": 43.91175
+  },
+  {
+    "dateTime": "2017-09-10",
+    "value.filteredDemographicVO2Max": 44.10189
+  },
+  {
+    "dateTime": "2017-09-11",
+    "value.filteredDemographicVO2Max": 44.22018
+  },
+  {
+    "dateTime": "2017-09-12",
+    "value.filteredDemographicVO2Max": 44.33725
+  },
+  {
+    "dateTime": "2017-09-13",
+    "value.filteredDemographicVO2Max": 44.42059
+  },
+  {
+    "dateTime": "2017-09-14",
+    "value.filteredDemographicVO2Max": 44.48553
+  },
+  {
+    "dateTime": "2017-09-15",
+    "value.filteredDemographicVO2Max": 44.57702
+  },
+  {
+    "dateTime": "2017-09-16",
+    "value.filteredDemographicVO2Max": 44.67823
+  },
+  {
+    "dateTime": "2017-09-17",
+    "value.filteredDemographicVO2Max": 44.70423
+  },
+  {
+    "dateTime": "2017-09-18",
+    "value.filteredDemographicVO2Max": 44.63485
+  },
+  {
+    "dateTime": "2017-09-19",
+    "value.filteredDemographicVO2Max": 44.51796
+  },
+  {
+    "dateTime": "2017-09-20",
+    "value.filteredDemographicVO2Max": 44.432
+  },
+  {
+    "dateTime": "2017-09-21",
+    "value.filteredDemographicVO2Max": 44.29374
+  },
+  {
+    "dateTime": "2017-09-22",
+    "value.filteredDemographicVO2Max": 44.12756
+  },
+  {
+    "dateTime": "2017-09-23",
+    "value.filteredDemographicVO2Max": 43.97859
+  },
+  {
+    "dateTime": "2017-09-24",
+    "value.filteredDemographicVO2Max": 43.85113
+  },
+  {
+    "dateTime": "2017-09-25",
+    "value.filteredDemographicVO2Max": 43.74873
+  },
+  {
+    "dateTime": "2017-09-26",
+    "value.filteredDemographicVO2Max": 43.72795
+  },
+  {
+    "dateTime": "2017-09-27",
+    "value.filteredDemographicVO2Max": 43.72479
+  },
+  {
+    "dateTime": "2017-09-28",
+    "value.filteredDemographicVO2Max": 43.72201
+  },
+  {
+    "dateTime": "2017-09-29",
+    "value.filteredDemographicVO2Max": 43.71957
+  },
+  {
+    "dateTime": "2017-09-30",
+    "value.filteredDemographicVO2Max": 43.77231
+  },
+  {
+    "dateTime": "2017-10-01",
+    "value.filteredDemographicVO2Max": 43.86117
+  },
+  {
+    "dateTime": "2017-10-02",
+    "value.filteredDemographicVO2Max": 43.89011
+  },
+  {
+    "dateTime": "2017-10-03",
+    "value.filteredDemographicVO2Max": 43.90697
+  },
+  {
+    "dateTime": "2017-10-04",
+    "value.filteredDemographicVO2Max": 43.85647
+  },
+  {
+    "dateTime": "2017-10-05",
+    "value.filteredDemographicVO2Max": 43.80231
+  },
+  {
+    "dateTime": "2017-10-06",
+    "value.filteredDemographicVO2Max": 43.73944
+  },
+  {
+    "dateTime": "2017-10-07",
+    "value.filteredDemographicVO2Max": 43.64966
+  },
+  {
+    "dateTime": "2017-10-08",
+    "value.filteredDemographicVO2Max": 43.34385
+  },
+  {
+    "dateTime": "2017-10-09",
+    "value.filteredDemographicVO2Max": 43.14189
+  },
+  {
+    "dateTime": "2017-10-10",
+    "value.filteredDemographicVO2Max": 43.05585
+  },
+  {
+    "dateTime": "2017-10-11",
+    "value.filteredDemographicVO2Max": 42.91328
+  },
+  {
+    "dateTime": "2017-10-12",
+    "value.filteredDemographicVO2Max": 42.78796
+  },
+  {
+    "dateTime": "2017-10-13",
+    "value.filteredDemographicVO2Max": 42.68102
+  },
+  {
+    "dateTime": "2017-10-14",
+    "value.filteredDemographicVO2Max": 42.63818
+  },
+  {
+    "dateTime": "2017-10-15",
+    "value.filteredDemographicVO2Max": 42.63679
+  },
+  {
+    "dateTime": "2017-10-16",
+    "value.filteredDemographicVO2Max": 42.63125
+  },
+  {
+    "dateTime": "2017-10-17",
+    "value.filteredDemographicVO2Max": 42.68207
+  },
+  {
+    "dateTime": "2017-10-18",
+    "value.filteredDemographicVO2Max": 42.66872
+  },
+  {
+    "dateTime": "2017-10-19",
+    "value.filteredDemographicVO2Max": 42.66788
+  },
+  {
+    "dateTime": "2017-10-20",
+    "value.filteredDemographicVO2Max": 42.72791
+  },
+  {
+    "dateTime": "2017-10-21",
+    "value.filteredDemographicVO2Max": 42.76254
+  },
+  {
+    "dateTime": "2017-10-22",
+    "value.filteredDemographicVO2Max": 42.79299
+  },
+  {
+    "dateTime": "2017-10-23",
+    "value.filteredDemographicVO2Max": 42.81974
+  },
+  {
+    "dateTime": "2017-10-24",
+    "value.filteredDemographicVO2Max": 42.84326
+  },
+  {
+    "dateTime": "2017-10-25",
+    "value.filteredDemographicVO2Max": 42.86394
+  },
+  {
+    "dateTime": "2017-10-26",
+    "value.filteredDemographicVO2Max": 42.88211
+  },
+  {
+    "dateTime": "2017-10-27",
+    "value.filteredDemographicVO2Max": 42.89857
+  },
+  {
+    "dateTime": "2017-10-28",
+    "value.filteredDemographicVO2Max": 42.87416
+  },
+  {
+    "dateTime": "2017-10-29",
+    "value.filteredDemographicVO2Max": 42.8609
+  },
+  {
+    "dateTime": "2017-10-30",
+    "value.filteredDemographicVO2Max": 42.8968
+  },
+  {
+    "dateTime": "2017-10-31",
+    "value.filteredDemographicVO2Max": 42.89744
+  },
+  {
+    "dateTime": "2017-11-01",
+    "value.filteredDemographicVO2Max": 42.88357
+  },
+  {
+    "dateTime": "2017-11-07",
+    "value.filteredDemographicVO2Max": 42.86396
+  },
+  {
+    "dateTime": "2017-11-08",
+    "value.filteredDemographicVO2Max": 42.89975
+  },
+  {
+    "dateTime": "2017-11-09",
+    "value.filteredDemographicVO2Max": 42.97667
+  },
+  {
+    "dateTime": "2017-11-10",
+    "value.filteredDemographicVO2Max": 43.03831
+  },
+  {
+    "dateTime": "2017-11-11",
+    "value.filteredDemographicVO2Max": 43.08881
+  },
+  {
+    "dateTime": "2017-11-12",
+    "value.filteredDemographicVO2Max": 43.13087
+  },
+  {
+    "dateTime": "2017-11-13",
+    "value.filteredDemographicVO2Max": 43.16634
+  },
+  {
+    "dateTime": "2017-11-14",
+    "value.filteredDemographicVO2Max": 43.19655
+  },
+  {
+    "dateTime": "2017-11-15",
+    "value.filteredDemographicVO2Max": 43.27669
+  },
+  {
+    "dateTime": "2017-11-16",
+    "value.filteredDemographicVO2Max": 43.38093
+  },
+  {
+    "dateTime": "2017-11-17",
+    "value.filteredDemographicVO2Max": 43.42111
+  },
+  {
+    "dateTime": "2017-12-07",
+    "value.filteredDemographicVO2Max": 43.39178
+  },
+  {
+    "dateTime": "2017-12-08",
+    "value.filteredDemographicVO2Max": 43.18824
+  },
+  {
+    "dateTime": "2017-12-09",
+    "value.filteredDemographicVO2Max": 42.90797
+  },
+  {
+    "dateTime": "2017-12-10",
+    "value.filteredDemographicVO2Max": 42.77794
+  },
+  {
+    "dateTime": "2017-12-11",
+    "value.filteredDemographicVO2Max": 42.73988
+  },
+  {
+    "dateTime": "2017-12-12",
+    "value.filteredDemographicVO2Max": 42.76544
+  },
+  {
+    "dateTime": "2017-12-13",
+    "value.filteredDemographicVO2Max": 42.74498
+  },
+  {
+    "dateTime": "2017-12-14",
+    "value.filteredDemographicVO2Max": 42.65267
+  },
+  {
+    "dateTime": "2017-12-15",
+    "value.filteredDemographicVO2Max": 42.65467
+  },
+  {
+    "dateTime": "2017-12-16",
+    "value.filteredDemographicVO2Max": 42.63724
+  },
+  {
+    "dateTime": "2017-12-18",
+    "value.filteredDemographicVO2Max": 42.59653
+  },
+  {
+    "dateTime": "2017-12-24",
+    "value.filteredDemographicVO2Max": 42.64513
+  },
+  {
+    "dateTime": "2017-12-25",
+    "value.filteredDemographicVO2Max": 42.63054
+  },
+  {
+    "dateTime": "2017-12-26",
+    "value.filteredDemographicVO2Max": 42.7
+  },
+  {
+    "dateTime": "2017-12-27",
+    "value.filteredDemographicVO2Max": 42.65913
+  },
+  {
+    "dateTime": "2017-12-28",
+    "value.filteredDemographicVO2Max": 42.71927
+  },
+  {
+    "dateTime": "2017-12-29",
+    "value.filteredDemographicVO2Max": 42.86011
+  },
+  {
+    "dateTime": "2017-12-30",
+    "value.filteredDemographicVO2Max": 43.05515
+  },
+  {
+    "dateTime": "2017-12-31",
+    "value.filteredDemographicVO2Max": 43.28542
+  },
+  {
+    "dateTime": "2018-01-01",
+    "value.filteredDemographicVO2Max": 43.48205
+  },
+  {
+    "dateTime": "2018-01-02",
+    "value.filteredDemographicVO2Max": 43.58613
+  },
+  {
+    "dateTime": "2018-01-03",
+    "value.filteredDemographicVO2Max": 43.74099
+  },
+  {
+    "dateTime": "2018-01-04",
+    "value.filteredDemographicVO2Max": 43.93037
+  },
+  {
+    "dateTime": "2018-01-05",
+    "value.filteredDemographicVO2Max": 44.09515
+  },
+  {
+    "dateTime": "2018-01-06",
+    "value.filteredDemographicVO2Max": 44.23884
+  },
+  {
+    "dateTime": "2018-01-07",
+    "value.filteredDemographicVO2Max": 44.36438
+  },
+  {
+    "dateTime": "2018-01-08",
+    "value.filteredDemographicVO2Max": 44.39388
+  },
+  {
+    "dateTime": "2018-01-09",
+    "value.filteredDemographicVO2Max": 44.36795
+  },
+  {
+    "dateTime": "2018-01-10",
+    "value.filteredDemographicVO2Max": 44.29208
+  },
+  {
+    "dateTime": "2018-01-11",
+    "value.filteredDemographicVO2Max": 44.22554
+  },
+  {
+    "dateTime": "2018-01-12",
+    "value.filteredDemographicVO2Max": 44.02552
+  },
+  {
+    "dateTime": "2018-01-13",
+    "value.filteredDemographicVO2Max": 43.8214
+  },
+  {
+    "dateTime": "2018-01-14",
+    "value.filteredDemographicVO2Max": 43.64217
+  },
+  {
+    "dateTime": "2018-01-15",
+    "value.filteredDemographicVO2Max": 43.48475
+  },
+  {
+    "dateTime": "2018-01-16",
+    "value.filteredDemographicVO2Max": 43.34647
+  },
+  {
+    "dateTime": "2018-01-17",
+    "value.filteredDemographicVO2Max": 43.22498
+  },
+  {
+    "dateTime": "2018-01-18",
+    "value.filteredDemographicVO2Max": 43.11823
+  },
+  {
+    "dateTime": "2018-01-19",
+    "value.filteredDemographicVO2Max": 43.02443
+  },
+  {
+    "dateTime": "2018-01-20",
+    "value.filteredDemographicVO2Max": 42.942
+  },
+  {
+    "dateTime": "2018-01-21",
+    "value.filteredDemographicVO2Max": 42.86956
+  },
+  {
+    "dateTime": "2018-01-22",
+    "value.filteredDemographicVO2Max": 42.80589
+  },
+  {
+    "dateTime": "2018-01-23",
+    "value.filteredDemographicVO2Max": 42.50995
+  },
+  {
+    "dateTime": "2018-01-24",
+    "value.filteredDemographicVO2Max": 42.24215
+  },
+  {
+    "dateTime": "2018-01-25",
+    "value.filteredDemographicVO2Max": 42.08908
+  },
+  {
+    "dateTime": "2018-01-26",
+    "value.filteredDemographicVO2Max": 42.03885
+  },
+  {
+    "dateTime": "2018-01-27",
+    "value.filteredDemographicVO2Max": 41.99406
+  },
+  {
+    "dateTime": "2018-01-28",
+    "value.filteredDemographicVO2Max": 41.93004
+  },
+  {
+    "dateTime": "2018-01-29",
+    "value.filteredDemographicVO2Max": 41.92814
+  },
+  {
+    "dateTime": "2018-01-30",
+    "value.filteredDemographicVO2Max": 41.95063
+  },
+  {
+    "dateTime": "2018-01-31",
+    "value.filteredDemographicVO2Max": 42.01969
+  },
+  {
+    "dateTime": "2018-02-01",
+    "value.filteredDemographicVO2Max": 42.05366
+  },
+  {
+    "dateTime": "2018-02-02",
+    "value.filteredDemographicVO2Max": 42.06881
+  },
+  {
+    "dateTime": "2018-02-03",
+    "value.filteredDemographicVO2Max": 42.071
+  },
+  {
+    "dateTime": "2018-02-04",
+    "value.filteredDemographicVO2Max": 42.06865
+  },
+  {
+    "dateTime": "2018-02-05",
+    "value.filteredDemographicVO2Max": 42.08282
+  },
+  {
+    "dateTime": "2018-02-06",
+    "value.filteredDemographicVO2Max": 42.08508
+  },
+  {
+    "dateTime": "2018-02-07",
+    "value.filteredDemographicVO2Max": 42.00651
+  },
+  {
+    "dateTime": "2018-02-08",
+    "value.filteredDemographicVO2Max": 41.99708
+  },
+  {
+    "dateTime": "2018-02-09",
+    "value.filteredDemographicVO2Max": 41.94702
+  },
+  {
+    "dateTime": "2018-02-10",
+    "value.filteredDemographicVO2Max": 41.88835
+  },
+  {
+    "dateTime": "2018-02-11",
+    "value.filteredDemographicVO2Max": 41.84076
+  },
+  {
+    "dateTime": "2018-02-12",
+    "value.filteredDemographicVO2Max": 41.8899
+  },
+  {
+    "dateTime": "2018-02-13",
+    "value.filteredDemographicVO2Max": 41.98809
+  },
+  {
+    "dateTime": "2018-02-14",
+    "value.filteredDemographicVO2Max": 42.03972
+  },
+  {
+    "dateTime": "2018-02-15",
+    "value.filteredDemographicVO2Max": 42.07076
+  },
+  {
+    "dateTime": "2018-02-16",
+    "value.filteredDemographicVO2Max": 42.05296
+  },
+  {
+    "dateTime": "2018-02-17",
+    "value.filteredDemographicVO2Max": 42.04989
+  },
+  {
+    "dateTime": "2018-02-18",
+    "value.filteredDemographicVO2Max": 42.04719
+  },
+  {
+    "dateTime": "2018-02-19",
+    "value.filteredDemographicVO2Max": 42.06475
+  },
+  {
+    "dateTime": "2018-02-20",
+    "value.filteredDemographicVO2Max": 42.11766
+  },
+  {
+    "dateTime": "2018-02-21",
+    "value.filteredDemographicVO2Max": 42.1232
+  },
+  {
+    "dateTime": "2018-02-22",
+    "value.filteredDemographicVO2Max": 42.08182
+  },
+  {
+    "dateTime": "2018-02-23",
+    "value.filteredDemographicVO2Max": 41.97924
+  },
+  {
+    "dateTime": "2018-02-24",
+    "value.filteredDemographicVO2Max": 41.84063
+  },
+  {
+    "dateTime": "2018-02-25",
+    "value.filteredDemographicVO2Max": 41.67656
+  },
+  {
+    "dateTime": "2018-02-26",
+    "value.filteredDemographicVO2Max": 41.52749
+  },
+  {
+    "dateTime": "2018-02-27",
+    "value.filteredDemographicVO2Max": 41.51677
+  },
+  {
+    "dateTime": "2018-02-28",
+    "value.filteredDemographicVO2Max": 41.56277
+  },
+  {
+    "dateTime": "2018-03-01",
+    "value.filteredDemographicVO2Max": 41.61164
+  },
+  {
+    "dateTime": "2018-03-02",
+    "value.filteredDemographicVO2Max": 41.66613
+  },
+  {
+    "dateTime": "2018-03-03",
+    "value.filteredDemographicVO2Max": 41.62903
+  },
+  {
+    "dateTime": "2018-03-09",
+    "value.filteredDemographicVO2Max": 41.64481
+  },
+  {
+    "dateTime": "2018-03-10",
+    "value.filteredDemographicVO2Max": 41.71079
+  },
+  {
+    "dateTime": "2018-03-11",
+    "value.filteredDemographicVO2Max": 41.81831
+  },
+  {
+    "dateTime": "2018-03-12",
+    "value.filteredDemographicVO2Max": 41.90448
+  },
+  {
+    "dateTime": "2018-03-13",
+    "value.filteredDemographicVO2Max": 41.93472
+  },
+  {
+    "dateTime": "2018-03-14",
+    "value.filteredDemographicVO2Max": 42.02934
+  },
+  {
+    "dateTime": "2018-03-15",
+    "value.filteredDemographicVO2Max": 42.16056
+  },
+  {
+    "dateTime": "2018-03-16",
+    "value.filteredDemographicVO2Max": 42.31938
+  },
+  {
+    "dateTime": "2018-03-17",
+    "value.filteredDemographicVO2Max": 42.48715
+  },
+  {
+    "dateTime": "2018-03-18",
+    "value.filteredDemographicVO2Max": 42.55416
+  },
+  {
+    "dateTime": "2018-03-19",
+    "value.filteredDemographicVO2Max": 42.53937
+  },
+  {
+    "dateTime": "2018-03-20",
+    "value.filteredDemographicVO2Max": 42.47786
+  },
+  {
+    "dateTime": "2018-03-21",
+    "value.filteredDemographicVO2Max": 42.42426
+  },
+  {
+    "dateTime": "2018-03-22",
+    "value.filteredDemographicVO2Max": 42.37746
+  },
+  {
+    "dateTime": "2018-03-23",
+    "value.filteredDemographicVO2Max": 42.28313
+  },
+  {
+    "dateTime": "2018-03-24",
+    "value.filteredDemographicVO2Max": 42.21162
+  },
+  {
+    "dateTime": "2018-03-25",
+    "value.filteredDemographicVO2Max": 42.15961
+  },
+  {
+    "dateTime": "2018-03-26",
+    "value.filteredDemographicVO2Max": 42.16493
+  },
+  {
+    "dateTime": "2018-03-27",
+    "value.filteredDemographicVO2Max": 42.1874
+  },
+  {
+    "dateTime": "2018-03-28",
+    "value.filteredDemographicVO2Max": 42.1433
+  },
+  {
+    "dateTime": "2018-03-29",
+    "value.filteredDemographicVO2Max": 42.08682
+  },
+  {
+    "dateTime": "2018-03-30",
+    "value.filteredDemographicVO2Max": 41.99096
+  },
+  {
+    "dateTime": "2018-04-01",
+    "value.filteredDemographicVO2Max": 41.86826
+  },
+  {
+    "dateTime": "2018-04-02",
+    "value.filteredDemographicVO2Max": 41.79175
+  },
+  {
+    "dateTime": "2018-04-03",
+    "value.filteredDemographicVO2Max": 41.67673
+  },
+  {
+    "dateTime": "2018-04-04",
+    "value.filteredDemographicVO2Max": 41.64848
+  },
+  {
+    "dateTime": "2018-04-05",
+    "value.filteredDemographicVO2Max": 41.62552
+  },
+  {
+    "dateTime": "2018-04-06",
+    "value.filteredDemographicVO2Max": 41.64351
+  },
+  {
+    "dateTime": "2018-04-07",
+    "value.filteredDemographicVO2Max": 41.58659
+  },
+  {
+    "dateTime": "2018-04-08",
+    "value.filteredDemographicVO2Max": 41.56927
+  },
+  {
+    "dateTime": "2018-04-10",
+    "value.filteredDemographicVO2Max": 41.50277
+  },
+  {
+    "dateTime": "2018-04-11",
+    "value.filteredDemographicVO2Max": 41.45045
+  },
+  {
+    "dateTime": "2018-04-12",
+    "value.filteredDemographicVO2Max": 41.42818
+  },
+  {
+    "dateTime": "2018-04-13",
+    "value.filteredDemographicVO2Max": 41.32308
+  },
+  {
+    "dateTime": "2018-04-14",
+    "value.filteredDemographicVO2Max": 41.24196
+  },
+  {
+    "dateTime": "2018-04-15",
+    "value.filteredDemographicVO2Max": 41.23288
+  },
+  {
+    "dateTime": "2018-04-16",
+    "value.filteredDemographicVO2Max": 41.25983
+  },
+  {
+    "dateTime": "2018-04-17",
+    "value.filteredDemographicVO2Max": 41.26159
+  },
+  {
+    "dateTime": "2018-04-18",
+    "value.filteredDemographicVO2Max": 41.15321
+  },
+  {
+    "dateTime": "2018-04-22",
+    "value.filteredDemographicVO2Max": 41.06085
+  },
+  {
+    "dateTime": "2018-04-23",
+    "value.filteredDemographicVO2Max": 40.84121
+  },
+  {
+    "dateTime": "2018-04-24",
+    "value.filteredDemographicVO2Max": 40.59035
+  },
+  {
+    "dateTime": "2018-04-25",
+    "value.filteredDemographicVO2Max": 40.30461
+  },
+  {
+    "dateTime": "2018-04-26",
+    "value.filteredDemographicVO2Max": 40.13885
+  },
+  {
+    "dateTime": "2018-04-27",
+    "value.filteredDemographicVO2Max": 40.03608
+  },
+  {
+    "dateTime": "2018-04-28",
+    "value.filteredDemographicVO2Max": 40.04112
+  },
+  {
+    "dateTime": "2018-04-29",
+    "value.filteredDemographicVO2Max": 40.11782
+  },
+  {
+    "dateTime": "2018-05-02",
+    "value.filteredDemographicVO2Max": 40.16204
+  },
+  {
+    "dateTime": "2018-05-03",
+    "value.filteredDemographicVO2Max": 40.22664
+  },
+  {
+    "dateTime": "2018-05-04",
+    "value.filteredDemographicVO2Max": 40.31284
+  },
+  {
+    "dateTime": "2018-05-05",
+    "value.filteredDemographicVO2Max": 40.40123
+  },
+  {
+    "dateTime": "2018-05-06",
+    "value.filteredDemographicVO2Max": 40.50447
+  },
+  {
+    "dateTime": "2018-05-07",
+    "value.filteredDemographicVO2Max": 40.50277
+  },
+  {
+    "dateTime": "2018-05-08",
+    "value.filteredDemographicVO2Max": 40.50583
+  },
+  {
+    "dateTime": "2018-05-09",
+    "value.filteredDemographicVO2Max": 40.50919
+  },
+  {
+    "dateTime": "2018-05-10",
+    "value.filteredDemographicVO2Max": 40.51282
+  },
+  {
+    "dateTime": "2018-05-11",
+    "value.filteredDemographicVO2Max": 40.48862
+  },
+  {
+    "dateTime": "2018-05-12",
+    "value.filteredDemographicVO2Max": 40.50115
+  },
+  {
+    "dateTime": "2018-05-13",
+    "value.filteredDemographicVO2Max": 40.57289
+  },
+  {
+    "dateTime": "2018-05-14",
+    "value.filteredDemographicVO2Max": 40.59461
+  },
+  {
+    "dateTime": "2018-05-15",
+    "value.filteredDemographicVO2Max": 40.64035
+  },
+  {
+    "dateTime": "2018-05-16",
+    "value.filteredDemographicVO2Max": 40.74436
+  },
+  {
+    "dateTime": "2018-05-17",
+    "value.filteredDemographicVO2Max": 40.81324
+  },
+  {
+    "dateTime": "2018-05-18",
+    "value.filteredDemographicVO2Max": 40.87569
+  },
+  {
+    "dateTime": "2018-05-19",
+    "value.filteredDemographicVO2Max": 40.94488
+  },
+  {
+    "dateTime": "2018-05-20",
+    "value.filteredDemographicVO2Max": 41.00564
+  },
+  {
+    "dateTime": "2018-05-21",
+    "value.filteredDemographicVO2Max": 41.05901
+  },
+  {
+    "dateTime": "2018-05-22",
+    "value.filteredDemographicVO2Max": 41.10589
+  },
+  {
+    "dateTime": "2018-05-23",
+    "value.filteredDemographicVO2Max": 41.14708
+  },
+  {
+    "dateTime": "2018-05-24",
+    "value.filteredDemographicVO2Max": 41.18327
+  }
+]
